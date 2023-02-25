@@ -35,4 +35,12 @@ public class DataSet {
     writer.flush();
     writer.close();
   }
+
+  public <E> void writeToFile(E pokemon) throws IOException {
+    FileWriter writer = new FileWriter(outputFile);
+
+    writer.write(String.valueOf(pokemon) + ("\n"));
+    writer.flush();
+    writer.close();
+  }
 }

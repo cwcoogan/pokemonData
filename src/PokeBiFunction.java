@@ -6,27 +6,29 @@ public class PokeBiFunction {
 
 
   static BiFunction<IPokemon, Integer, String> highestAttackDamage = (each, acc) -> {
-    IPokemon startingPoke = pokeList.get(0);
-    String pokemonWithHighestAttackDMG = startingPoke.getName();
-    int highestAttack = startingPoke.getAttackDMG();
-
-    for (IPokemon pok : pokeList) {
-      String pokemonName = PokeBiFunction.highestAttackDamage.apply(pok, highestAttack);
-      if (pokemonName != null) {
-        pokemonWithHighestAttackDMG = pokemonName;
-        highestAttack = pok.getAttackDMG();
-      }
-    }
-
     if (each.getAttackDMG() > acc)
-
-
-
       return each.getName();
     return each.getName();
   };
+
+
+  static BiFunction<IPokemon, Integer, Integer> totalHP = (each, acc) -> {
+    System.out.println(acc);
+    acc += each.getHP();
+    {
+    }
+    return acc;
+  };
+
+
+  static BiFunction<IPokemon, String, String > allNames = (each, acc) -> {
+    return acc += each.getName() + " ";
+  };
+
+  static BiFunction<IPokemon, Integer, Integer> returnHighestHPPokemon = (each, acc) -> {
+    if (each.getHP() > acc){
+      return each.getHP();
+    }
+    return null;
+  };
 }
-
-
-
-

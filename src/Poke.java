@@ -1,6 +1,6 @@
-import java.util.Comparator;
+import java.util.Collections;
 import java.util.List;
-import java.util.function.Predicate;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 public class Poke extends Data{
@@ -17,7 +17,7 @@ public class Poke extends Data{
      return this.list.stream()
             .filter(PokePredicates.predicateLegendary)
             .filter(PokePredicates.nameLengthLowerThenFive)
-            .filter(PokePredicates.predicateElectricPokemon)
+            .filter(PokePredicates.predicateFirePokemon)
             .sorted(PokeCompare.compareByAttackSpeed())
             .collect(Collectors.toList());
     }
@@ -30,12 +30,4 @@ public class Poke extends Data{
             .collect(Collectors.toList());
     }
 
-    public List<IPokemon> returnHighestAttackDMGPokemon() {
-
-      return this.list.stream()
-              .filter(PokeBiFunction.highestAttackDamage);
-
-    }
-
-
-  }
+}
