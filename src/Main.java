@@ -15,8 +15,10 @@ public class Main {
 //     return fireLegendary;
 //    pokemon.writeToFile(Poke.sortAndFilter(pokeList, PokePredicates.predicateLegendary, PokeCompare.compareByNameLengthAscending()));
 //    pokemon.writeToFile(Poke.reduce(pokeList, PokeBiFunction.allNames, "", true));
-    pokemon.writeToFile(Data.findPokemon(pokeList, Poke.reduce(pokeList, PokeBiFunction.returnHighestHPPokemon, 0)).getName());
+//    pokemon.writeToFile(Data.findPokemon(pokeList, Poke.reduce(pokeList, PokeBiFunction.returnHighestHPPokemon, 0)).getName());
 
+
+    pokemon.writeToFile(Data.bubbleSort(pokeList, PokeCompare.compareByHP()));
 //    pokemon.writeToFile(p.returnLegendaryFires());
 
 //     return Pokemon starting with 'A' in ascending order
@@ -73,6 +75,8 @@ public class Main {
 //    }
 //    System.out.println(pokemonNameWithHighestHP);
 //  }
+
+
   }
   }
 

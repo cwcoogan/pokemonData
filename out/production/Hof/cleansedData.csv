@@ -1,1 +1,800 @@
-255
+Name: Bulbasaur  Legendary: false  Attack Speed: 65  HP: 45  GEN: False  TYPE: Grass  Attack DMG:65
+Name: Blissey  Legendary: false  Attack Speed: 135  HP: 255  GEN: False  TYPE: Normal  Attack DMG:75
+Name: Chansey  Legendary: false  Attack Speed: 105  HP: 250  GEN: False  TYPE: Normal  Attack DMG:35
+Name: Wobbuffet  Legendary: false  Attack Speed: 58  HP: 190  GEN: False  TYPE: Psychic  Attack DMG:33
+Name: Wailord  Legendary: false  Attack Speed: 45  HP: 170  GEN: False  TYPE: Water  Attack DMG:90
+Name: Alomomola  Legendary: false  Attack Speed: 45  HP: 165  GEN: False  TYPE: Water  Attack DMG:40
+Name: Snorlax  Legendary: false  Attack Speed: 110  HP: 160  GEN: False  TYPE: Normal  Attack DMG:65
+Name: Slaking  Legendary: false  Attack Speed: 65  HP: 150  GEN: False  TYPE: Normal  Attack DMG:95
+Name: Drifblim  Legendary: false  Attack Speed: 54  HP: 150  GEN: False  TYPE: Ghost  Attack DMG:90
+Name: GiratinaAltered Forme  Legendary: true  Attack Speed: 120  HP: 150  GEN: True  TYPE: Ghost  Attack DMG:100
+Name: GiratinaOrigin Forme  Legendary: true  Attack Speed: 100  HP: 150  GEN: True  TYPE: Ghost  Attack DMG:120
+Name: Hariyama  Legendary: false  Attack Speed: 60  HP: 144  GEN: False  TYPE: Fighting  Attack DMG:40
+Name: Wigglytuff  Legendary: false  Attack Speed: 50  HP: 140  GEN: False  TYPE: Normal  Attack DMG:85
+Name: Munchlax  Legendary: false  Attack Speed: 85  HP: 135  GEN: False  TYPE: Normal  Attack DMG:40
+Name: Lapras  Legendary: false  Attack Speed: 95  HP: 130  GEN: False  TYPE: Water  Attack DMG:85
+Name: Vaporeon  Legendary: false  Attack Speed: 95  HP: 130  GEN: False  TYPE: Water  Attack DMG:110
+Name: Wailmer  Legendary: false  Attack Speed: 35  HP: 130  GEN: False  TYPE: Water  Attack DMG:70
+Name: Xerneas  Legendary: true  Attack Speed: 98  HP: 126  GEN: True  TYPE: Fairy  Attack DMG:131
+Name: Yveltal  Legendary: true  Attack Speed: 98  HP: 126  GEN: True  TYPE: Dark  Attack DMG:131
+Name: Lanturn  Legendary: false  Attack Speed: 76  HP: 125  GEN: False  TYPE: Water  Attack DMG:76
+Name: Kyurem  Legendary: true  Attack Speed: 90  HP: 125  GEN: True  TYPE: Dragon  Attack DMG:130
+Name: KyuremBlack Kyurem  Legendary: true  Attack Speed: 90  HP: 125  GEN: True  TYPE: Dragon  Attack DMG:120
+Name: KyuremWhite Kyurem  Legendary: true  Attack Speed: 100  HP: 125  GEN: True  TYPE: Dragon  Attack DMG:170
+Name: Gogoat  Legendary: false  Attack Speed: 81  HP: 123  GEN: False  TYPE: Grass  Attack DMG:97
+Name: Aurorus  Legendary: false  Attack Speed: 92  HP: 123  GEN: False  TYPE: Rock  Attack DMG:99
+Name: Cresselia  Legendary: false  Attack Speed: 130  HP: 120  GEN: False  TYPE: Psychic  Attack DMG:75
+Name: Arceus  Legendary: true  Attack Speed: 120  HP: 120  GEN: True  TYPE: Normal  Attack DMG:120
+Name: Throh  Legendary: false  Attack Speed: 85  HP: 120  GEN: False  TYPE: Fighting  Attack DMG:30
+Name: Musharna  Legendary: false  Attack Speed: 95  HP: 116  GEN: False  TYPE: Psychic  Attack DMG:107
+Name: Jigglypuff  Legendary: false  Attack Speed: 25  HP: 115  GEN: False  TYPE: Normal  Attack DMG:45
+Name: Entei  Legendary: true  Attack Speed: 75  HP: 115  GEN: True  TYPE: Fire  Attack DMG:90
+Name: Rhyperior  Legendary: false  Attack Speed: 55  HP: 115  GEN: False  TYPE: Ground  Attack DMG:55
+Name: Amoonguss  Legendary: false  Attack Speed: 80  HP: 114  GEN: False  TYPE: Grass  Attack DMG:85
+Name: Gastrodon  Legendary: false  Attack Speed: 82  HP: 111  GEN: False  TYPE: Water  Attack DMG:92
+Name: Whiscash  Legendary: false  Attack Speed: 71  HP: 110  GEN: False  TYPE: Water  Attack DMG:76
+Name: Walrein  Legendary: false  Attack Speed: 90  HP: 110  GEN: False  TYPE: Ice  Attack DMG:95
+Name: Lickilicky  Legendary: false  Attack Speed: 95  HP: 110  GEN: False  TYPE: Normal  Attack DMG:80
+Name: Mamoswine  Legendary: false  Attack Speed: 60  HP: 110  GEN: False  TYPE: Ice  Attack DMG:70
+Name: Regigigas  Legendary: true  Attack Speed: 110  HP: 110  GEN: True  TYPE: Normal  Attack DMG:80
+Name: Emboar  Legendary: false  Attack Speed: 65  HP: 110  GEN: False  TYPE: Fire  Attack DMG:100
+Name: Excadrill  Legendary: false  Attack Speed: 65  HP: 110  GEN: False  TYPE: Ground  Attack DMG:50
+Name: Reuniclus  Legendary: false  Attack Speed: 85  HP: 110  GEN: False  TYPE: Psychic  Attack DMG:125
+Name: Mandibuzz  Legendary: false  Attack Speed: 95  HP: 110  GEN: False  TYPE: Dark  Attack DMG:55
+Name: Stunfisk  Legendary: false  Attack Speed: 99  HP: 109  GEN: False  TYPE: Ground  Attack DMG:81
+Name: Garchomp  Legendary: false  Attack Speed: 85  HP: 108  GEN: False  TYPE: Dragon  Attack DMG:80
+Name: GarchompMega Garchomp  Legendary: false  Attack Speed: 95  HP: 108  GEN: False  TYPE: Dragon  Attack DMG:120
+Name: Hippowdon  Legendary: false  Attack Speed: 72  HP: 108  GEN: False  TYPE: Ground  Attack DMG:68
+Name: Zygarde50% Forme  Legendary: true  Attack Speed: 95  HP: 108  GEN: True  TYPE: Dragon  Attack DMG:81
+Name: Mewtwo  Legendary: true  Attack Speed: 90  HP: 106  GEN: True  TYPE: Psychic  Attack DMG:154
+Name: MewtwoMega Mewtwo X  Legendary: true  Attack Speed: 100  HP: 106  GEN: True  TYPE: Psychic  Attack DMG:154
+Name: MewtwoMega Mewtwo Y  Legendary: true  Attack Speed: 120  HP: 106  GEN: True  TYPE: Psychic  Attack DMG:194
+Name: Lugia  Legendary: true  Attack Speed: 154  HP: 106  GEN: True  TYPE: Psychic  Attack DMG:90
+Name: Ho-oh  Legendary: true  Attack Speed: 154  HP: 106  GEN: True  TYPE: Fire  Attack DMG:110
+Name: Muk  Legendary: false  Attack Speed: 100  HP: 105  GEN: False  TYPE: Poison  Attack DMG:65
+Name: Rhydon  Legendary: false  Attack Speed: 45  HP: 105  GEN: False  TYPE: Ground  Attack DMG:45
+Name: Kangaskhan  Legendary: false  Attack Speed: 80  HP: 105  GEN: False  TYPE: Normal  Attack DMG:40
+Name: KangaskhanMega Kangaskhan  Legendary: false  Attack Speed: 100  HP: 105  GEN: False  TYPE: Normal  Attack DMG:60
+Name: Rayquaza  Legendary: true  Attack Speed: 90  HP: 105  GEN: True  TYPE: Dragon  Attack DMG:150
+Name: RayquazaMega Rayquaza  Legendary: true  Attack Speed: 100  HP: 105  GEN: True  TYPE: Dragon  Attack DMG:180
+Name: Conkeldurr  Legendary: false  Attack Speed: 65  HP: 105  GEN: False  TYPE: Fighting  Attack DMG:55
+Name: Seismitoad  Legendary: false  Attack Speed: 75  HP: 105  GEN: False  TYPE: Water  Attack DMG:85
+Name: DarmanitanStandard Mode  Legendary: false  Attack Speed: 55  HP: 105  GEN: False  TYPE: Fire  Attack DMG:30
+Name: DarmanitanZen Mode  Legendary: false  Attack Speed: 105  HP: 105  GEN: False  TYPE: Fire  Attack DMG:140
+Name: Exploud  Legendary: false  Attack Speed: 73  HP: 104  GEN: False  TYPE: Normal  Attack DMG:91
+Name: Skuntank  Legendary: false  Attack Speed: 61  HP: 103  GEN: False  TYPE: Poison  Attack DMG:71
+Name: Audino  Legendary: false  Attack Speed: 86  HP: 103  GEN: False  TYPE: Normal  Attack DMG:60
+Name: AudinoMega Audino  Legendary: false  Attack Speed: 126  HP: 103  GEN: False  TYPE: Normal  Attack DMG:80
+Name: Aromatisse  Legendary: false  Attack Speed: 89  HP: 101  GEN: False  TYPE: Fairy  Attack DMG:99
+Name: Mew  Legendary: false  Attack Speed: 100  HP: 100  GEN: False  TYPE: Psychic  Attack DMG:100
+Name: Noctowl  Legendary: false  Attack Speed: 96  HP: 100  GEN: False  TYPE: Normal  Attack DMG:76
+Name: Azumarill  Legendary: false  Attack Speed: 80  HP: 100  GEN: False  TYPE: Water  Attack DMG:60
+Name: Dunsparce  Legendary: false  Attack Speed: 65  HP: 100  GEN: False  TYPE: Normal  Attack DMG:65
+Name: Piloswine  Legendary: false  Attack Speed: 60  HP: 100  GEN: False  TYPE: Ice  Attack DMG:60
+Name: Suicune  Legendary: true  Attack Speed: 115  HP: 100  GEN: True  TYPE: Water  Attack DMG:90
+Name: Tyranitar  Legendary: false  Attack Speed: 100  HP: 100  GEN: False  TYPE: Rock  Attack DMG:95
+Name: TyranitarMega Tyranitar  Legendary: false  Attack Speed: 120  HP: 100  GEN: False  TYPE: Rock  Attack DMG:95
+Name: Celebi  Legendary: false  Attack Speed: 100  HP: 100  GEN: False  TYPE: Psychic  Attack DMG:100
+Name: Swampert  Legendary: false  Attack Speed: 90  HP: 100  GEN: False  TYPE: Water  Attack DMG:85
+Name: SwampertMega Swampert  Legendary: false  Attack Speed: 110  HP: 100  GEN: False  TYPE: Water  Attack DMG:95
+Name: Swalot  Legendary: false  Attack Speed: 83  HP: 100  GEN: False  TYPE: Poison  Attack DMG:73
+Name: Relicanth  Legendary: false  Attack Speed: 65  HP: 100  GEN: False  TYPE: Water  Attack DMG:45
+Name: Kyogre  Legendary: true  Attack Speed: 140  HP: 100  GEN: True  TYPE: Water  Attack DMG:150
+Name: KyogrePrimal Kyogre  Legendary: true  Attack Speed: 160  HP: 100  GEN: True  TYPE: Water  Attack DMG:180
+Name: Groudon  Legendary: true  Attack Speed: 90  HP: 100  GEN: True  TYPE: Ground  Attack DMG:100
+Name: GroudonPrimal Groudon  Legendary: true  Attack Speed: 90  HP: 100  GEN: True  TYPE: Ground  Attack DMG:150
+Name: Jirachi  Legendary: true  Attack Speed: 100  HP: 100  GEN: True  TYPE: Steel  Attack DMG:100
+Name: Honchkrow  Legendary: false  Attack Speed: 52  HP: 100  GEN: False  TYPE: Dark  Attack DMG:105
+Name: Happiny  Legendary: false  Attack Speed: 65  HP: 100  GEN: False  TYPE: Normal  Attack DMG:15
+Name: Tangrowth  Legendary: false  Attack Speed: 50  HP: 100  GEN: False  TYPE: Grass  Attack DMG:110
+Name: Dialga  Legendary: true  Attack Speed: 100  HP: 100  GEN: True  TYPE: Steel  Attack DMG:150
+Name: Manaphy  Legendary: false  Attack Speed: 100  HP: 100  GEN: False  TYPE: Water  Attack DMG:100
+Name: ShayminLand Forme  Legendary: true  Attack Speed: 100  HP: 100  GEN: True  TYPE: Grass  Attack DMG:100
+Name: ShayminSky Forme  Legendary: true  Attack Speed: 75  HP: 100  GEN: True  TYPE: Grass  Attack DMG:120
+Name: Victini  Legendary: true  Attack Speed: 100  HP: 100  GEN: True  TYPE: Psychic  Attack DMG:100
+Name: Jellicent  Legendary: false  Attack Speed: 105  HP: 100  GEN: False  TYPE: Water  Attack DMG:85
+Name: Braviary  Legendary: false  Attack Speed: 75  HP: 100  GEN: False  TYPE: Normal  Attack DMG:57
+Name: Reshiram  Legendary: true  Attack Speed: 120  HP: 100  GEN: True  TYPE: Dragon  Attack DMG:150
+Name: Zekrom  Legendary: true  Attack Speed: 100  HP: 100  GEN: True  TYPE: Dragon  Attack DMG:120
+Name: MeloettaAria Forme  Legendary: false  Attack Speed: 128  HP: 100  GEN: False  TYPE: Normal  Attack DMG:128
+Name: MeloettaPirouette Forme  Legendary: false  Attack Speed: 77  HP: 100  GEN: False  TYPE: Normal  Attack DMG:77
+Name: Tropius  Legendary: false  Attack Speed: 87  HP: 99  GEN: False  TYPE: Grass  Attack DMG:72
+Name: Rampardos  Legendary: false  Attack Speed: 50  HP: 97  GEN: False  TYPE: Rock  Attack DMG:65
+Name: Clefable  Legendary: false  Attack Speed: 90  HP: 95  GEN: False  TYPE: Fairy  Attack DMG:95
+Name: Slowbro  Legendary: false  Attack Speed: 80  HP: 95  GEN: False  TYPE: Water  Attack DMG:100
+Name: SlowbroMega Slowbro  Legendary: false  Attack Speed: 80  HP: 95  GEN: False  TYPE: Water  Attack DMG:130
+Name: Exeggutor  Legendary: false  Attack Speed: 65  HP: 95  GEN: False  TYPE: Grass  Attack DMG:125
+Name: Gyarados  Legendary: false  Attack Speed: 100  HP: 95  GEN: False  TYPE: Water  Attack DMG:60
+Name: GyaradosMega Gyarados  Legendary: false  Attack Speed: 130  HP: 95  GEN: False  TYPE: Water  Attack DMG:70
+Name: Quagsire  Legendary: false  Attack Speed: 65  HP: 95  GEN: False  TYPE: Water  Attack DMG:65
+Name: Umbreon  Legendary: false  Attack Speed: 130  HP: 95  GEN: False  TYPE: Dark  Attack DMG:60
+Name: Slowking  Legendary: false  Attack Speed: 110  HP: 95  GEN: False  TYPE: Water  Attack DMG:100
+Name: Miltank  Legendary: false  Attack Speed: 70  HP: 95  GEN: False  TYPE: Normal  Attack DMG:40
+Name: Milotic  Legendary: false  Attack Speed: 125  HP: 95  GEN: False  TYPE: Water  Attack DMG:100
+Name: Wynaut  Legendary: false  Attack Speed: 48  HP: 95  GEN: False  TYPE: Psychic  Attack DMG:23
+Name: Salamence  Legendary: false  Attack Speed: 80  HP: 95  GEN: False  TYPE: Dragon  Attack DMG:110
+Name: SalamenceMega Salamence  Legendary: false  Attack Speed: 90  HP: 95  GEN: False  TYPE: Dragon  Attack DMG:120
+Name: Torterra  Legendary: false  Attack Speed: 85  HP: 95  GEN: False  TYPE: Grass  Attack DMG:75
+Name: Samurott  Legendary: false  Attack Speed: 70  HP: 95  GEN: False  TYPE: Water  Attack DMG:108
+Name: Krookodile  Legendary: false  Attack Speed: 70  HP: 95  GEN: False  TYPE: Ground  Attack DMG:65
+Name: Beartic  Legendary: false  Attack Speed: 80  HP: 95  GEN: False  TYPE: Ice  Attack DMG:70
+Name: Bouffalant  Legendary: false  Attack Speed: 95  HP: 95  GEN: False  TYPE: Normal  Attack DMG:40
+Name: Pangoro  Legendary: false  Attack Speed: 71  HP: 95  GEN: False  TYPE: Fighting  Attack DMG:69
+Name: Sylveon  Legendary: false  Attack Speed: 130  HP: 95  GEN: False  TYPE: Fairy  Attack DMG:110
+Name: Avalugg  Legendary: false  Attack Speed: 46  HP: 95  GEN: False  TYPE: Ice  Attack DMG:44
+Name: Hydreigon  Legendary: false  Attack Speed: 90  HP: 92  GEN: False  TYPE: Dark  Attack DMG:125
+Name: Dragonite  Legendary: false  Attack Speed: 100  HP: 91  GEN: False  TYPE: Dragon  Attack DMG:100
+Name: Heatran  Legendary: true  Attack Speed: 106  HP: 91  GEN: True  TYPE: Fire  Attack DMG:130
+Name: Cobalion  Legendary: true  Attack Speed: 72  HP: 91  GEN: True  TYPE: Steel  Attack DMG:90
+Name: Terrakion  Legendary: true  Attack Speed: 90  HP: 91  GEN: True  TYPE: Rock  Attack DMG:72
+Name: Virizion  Legendary: true  Attack Speed: 129  HP: 91  GEN: True  TYPE: Grass  Attack DMG:90
+Name: KeldeoOrdinary Forme  Legendary: false  Attack Speed: 90  HP: 91  GEN: False  TYPE: Water  Attack DMG:129
+Name: KeldeoResolute Forme  Legendary: false  Attack Speed: 90  HP: 91  GEN: False  TYPE: Water  Attack DMG:129
+Name: Nidoqueen  Legendary: false  Attack Speed: 85  HP: 90  GEN: False  TYPE: Poison  Attack DMG:75
+Name: Arcanine  Legendary: false  Attack Speed: 80  HP: 90  GEN: False  TYPE: Fire  Attack DMG:100
+Name: Poliwrath  Legendary: false  Attack Speed: 90  HP: 90  GEN: False  TYPE: Water  Attack DMG:70
+Name: Machamp  Legendary: false  Attack Speed: 85  HP: 90  GEN: False  TYPE: Fighting  Attack DMG:65
+Name: Slowpoke  Legendary: false  Attack Speed: 40  HP: 90  GEN: False  TYPE: Water  Attack DMG:40
+Name: Dewgong  Legendary: false  Attack Speed: 95  HP: 90  GEN: False  TYPE: Water  Attack DMG:70
+Name: Lickitung  Legendary: false  Attack Speed: 75  HP: 90  GEN: False  TYPE: Normal  Attack DMG:60
+Name: Articuno  Legendary: true  Attack Speed: 125  HP: 90  GEN: True  TYPE: Ice  Attack DMG:95
+Name: Zapdos  Legendary: true  Attack Speed: 90  HP: 90  GEN: True  TYPE: Electric  Attack DMG:125
+Name: Moltres  Legendary: true  Attack Speed: 85  HP: 90  GEN: True  TYPE: Fire  Attack DMG:125
+Name: Igglybuff  Legendary: false  Attack Speed: 20  HP: 90  GEN: False  TYPE: Normal  Attack DMG:40
+Name: Ampharos  Legendary: false  Attack Speed: 90  HP: 90  GEN: False  TYPE: Electric  Attack DMG:115
+Name: AmpharosMega Ampharos  Legendary: false  Attack Speed: 110  HP: 90  GEN: False  TYPE: Electric  Attack DMG:165
+Name: Politoed  Legendary: false  Attack Speed: 100  HP: 90  GEN: False  TYPE: Water  Attack DMG:90
+Name: Granbull  Legendary: false  Attack Speed: 60  HP: 90  GEN: False  TYPE: Fairy  Attack DMG:60
+Name: Ursaring  Legendary: false  Attack Speed: 75  HP: 90  GEN: False  TYPE: Normal  Attack DMG:75
+Name: Phanpy  Legendary: false  Attack Speed: 40  HP: 90  GEN: False  TYPE: Ground  Attack DMG:40
+Name: Donphan  Legendary: false  Attack Speed: 60  HP: 90  GEN: False  TYPE: Ground  Attack DMG:60
+Name: Raikou  Legendary: true  Attack Speed: 100  HP: 90  GEN: True  TYPE: Electric  Attack DMG:115
+Name: Shiftry  Legendary: false  Attack Speed: 60  HP: 90  GEN: False  TYPE: Grass  Attack DMG:90
+Name: Sealeo  Legendary: false  Attack Speed: 70  HP: 90  GEN: False  TYPE: Ice  Attack DMG:75
+Name: Drifloon  Legendary: false  Attack Speed: 44  HP: 90  GEN: False  TYPE: Ghost  Attack DMG:60
+Name: Abomasnow  Legendary: false  Attack Speed: 85  HP: 90  GEN: False  TYPE: Grass  Attack DMG:92
+Name: AbomasnowMega Abomasnow  Legendary: false  Attack Speed: 105  HP: 90  GEN: False  TYPE: Grass  Attack DMG:132
+Name: Palkia  Legendary: true  Attack Speed: 120  HP: 90  GEN: True  TYPE: Water  Attack DMG:150
+Name: Pignite  Legendary: false  Attack Speed: 55  HP: 90  GEN: False  TYPE: Fire  Attack DMG:70
+Name: Goodra  Legendary: false  Attack Speed: 150  HP: 90  GEN: False  TYPE: Dragon  Attack DMG:110
+Name: Golurk  Legendary: false  Attack Speed: 80  HP: 89  GEN: False  TYPE: Ground  Attack DMG:55
+Name: LandorusIncarnate Forme  Legendary: true  Attack Speed: 80  HP: 89  GEN: True  TYPE: Ground  Attack DMG:115
+Name: LandorusTherian Forme  Legendary: true  Attack Speed: 80  HP: 89  GEN: True  TYPE: Ground  Attack DMG:105
+Name: Chesnaught  Legendary: false  Attack Speed: 75  HP: 88  GEN: False  TYPE: Grass  Attack DMG:74
+Name: Cradily  Legendary: false  Attack Speed: 107  HP: 86  GEN: False  TYPE: Rock  Attack DMG:81
+Name: Yanmega  Legendary: false  Attack Speed: 56  HP: 86  GEN: False  TYPE: Bug  Attack DMG:116
+Name: Pyroar  Legendary: false  Attack Speed: 66  HP: 86  GEN: False  TYPE: Fire  Attack DMG:109
+Name: Malamar  Legendary: false  Attack Speed: 75  HP: 86  GEN: False  TYPE: Dark  Attack DMG:68
+Name: Hypno  Legendary: false  Attack Speed: 115  HP: 85  GEN: False  TYPE: Psychic  Attack DMG:73
+Name: Feraligatr  Legendary: false  Attack Speed: 83  HP: 85  GEN: False  TYPE: Water  Attack DMG:79
+Name: Furret  Legendary: false  Attack Speed: 55  HP: 85  GEN: False  TYPE: Normal  Attack DMG:45
+Name: Crobat  Legendary: false  Attack Speed: 80  HP: 85  GEN: False  TYPE: Poison  Attack DMG:70
+Name: Porygon2  Legendary: false  Attack Speed: 95  HP: 85  GEN: False  TYPE: Normal  Attack DMG:105
+Name: Staraptor  Legendary: false  Attack Speed: 60  HP: 85  GEN: False  TYPE: Normal  Attack DMG:50
+Name: Floatzel  Legendary: false  Attack Speed: 50  HP: 85  GEN: False  TYPE: Water  Attack DMG:85
+Name: Togekiss  Legendary: false  Attack Speed: 115  HP: 85  GEN: False  TYPE: Fairy  Attack DMG:120
+Name: Porygon-Z  Legendary: false  Attack Speed: 75  HP: 85  GEN: False  TYPE: Normal  Attack DMG:135
+Name: Stoutland  Legendary: false  Attack Speed: 90  HP: 85  GEN: False  TYPE: Normal  Attack DMG:45
+Name: Gigalith  Legendary: false  Attack Speed: 80  HP: 85  GEN: False  TYPE: Rock  Attack DMG:60
+Name: Gurdurr  Legendary: false  Attack Speed: 50  HP: 85  GEN: False  TYPE: Fighting  Attack DMG:40
+Name: Eelektross  Legendary: false  Attack Speed: 80  HP: 85  GEN: False  TYPE: Electric  Attack DMG:105
+Name: Heatmor  Legendary: false  Attack Speed: 66  HP: 85  GEN: False  TYPE: Fire  Attack DMG:105
+Name: Volcarona  Legendary: false  Attack Speed: 105  HP: 85  GEN: False  TYPE: Bug  Attack DMG:135
+Name: Diggersby  Legendary: false  Attack Speed: 77  HP: 85  GEN: False  TYPE: Normal  Attack DMG:50
+Name: Trevenant  Legendary: false  Attack Speed: 82  HP: 85  GEN: False  TYPE: Ghost  Attack DMG:65
+Name: GourgeistSuper Size  Legendary: false  Attack Speed: 75  HP: 85  GEN: False  TYPE: Ghost  Attack DMG:58
+Name: Noivern  Legendary: false  Attack Speed: 80  HP: 85  GEN: False  TYPE: Flying  Attack DMG:97
+Name: Loudred  Legendary: false  Attack Speed: 43  HP: 84  GEN: False  TYPE: Normal  Attack DMG:71
+Name: Empoleon  Legendary: false  Attack Speed: 101  HP: 84  GEN: False  TYPE: Water  Attack DMG:111
+Name: Pidgeot  Legendary: false  Attack Speed: 70  HP: 83  GEN: False  TYPE: Normal  Attack DMG:70
+Name: PidgeotMega Pidgeot  Legendary: false  Attack Speed: 80  HP: 83  GEN: False  TYPE: Normal  Attack DMG:135
+Name: Toxicroak  Legendary: false  Attack Speed: 65  HP: 83  GEN: False  TYPE: Poison  Attack DMG:86
+Name: Slurpuff  Legendary: false  Attack Speed: 75  HP: 82  GEN: False  TYPE: Fairy  Attack DMG:85
+Name: Tyrantrum  Legendary: false  Attack Speed: 59  HP: 82  GEN: False  TYPE: Rock  Attack DMG:69
+Name: Nidoking  Legendary: false  Attack Speed: 75  HP: 81  GEN: False  TYPE: Poison  Attack DMG:85
+Name: Venusaur  Legendary: false  Attack Speed: 100  HP: 80  GEN: False  TYPE: Grass  Attack DMG:100
+Name: VenusaurMega Venusaur  Legendary: false  Attack Speed: 120  HP: 80  GEN: False  TYPE: Grass  Attack DMG:122
+Name: Golduck  Legendary: false  Attack Speed: 80  HP: 80  GEN: False  TYPE: Water  Attack DMG:95
+Name: Machoke  Legendary: false  Attack Speed: 60  HP: 80  GEN: False  TYPE: Fighting  Attack DMG:50
+Name: Victreebel  Legendary: false  Attack Speed: 70  HP: 80  GEN: False  TYPE: Grass  Attack DMG:100
+Name: Tentacruel  Legendary: false  Attack Speed: 120  HP: 80  GEN: False  TYPE: Water  Attack DMG:80
+Name: Golem  Legendary: false  Attack Speed: 65  HP: 80  GEN: False  TYPE: Rock  Attack DMG:55
+Name: Grimer  Legendary: false  Attack Speed: 50  HP: 80  GEN: False  TYPE: Poison  Attack DMG:40
+Name: Rhyhorn  Legendary: false  Attack Speed: 30  HP: 80  GEN: False  TYPE: Ground  Attack DMG:30
+Name: Seaking  Legendary: false  Attack Speed: 80  HP: 80  GEN: False  TYPE: Water  Attack DMG:65
+Name: Aerodactyl  Legendary: false  Attack Speed: 75  HP: 80  GEN: False  TYPE: Rock  Attack DMG:60
+Name: AerodactylMega Aerodactyl  Legendary: false  Attack Speed: 95  HP: 80  GEN: False  TYPE: Rock  Attack DMG:70
+Name: Meganium  Legendary: false  Attack Speed: 100  HP: 80  GEN: False  TYPE: Grass  Attack DMG:83
+Name: Heracross  Legendary: false  Attack Speed: 95  HP: 80  GEN: False  TYPE: Bug  Attack DMG:40
+Name: HeracrossMega Heracross  Legendary: false  Attack Speed: 105  HP: 80  GEN: False  TYPE: Bug  Attack DMG:40
+Name: Blaziken  Legendary: false  Attack Speed: 70  HP: 80  GEN: False  TYPE: Fire  Attack DMG:110
+Name: BlazikenMega Blaziken  Legendary: false  Attack Speed: 80  HP: 80  GEN: False  TYPE: Fire  Attack DMG:130
+Name: Ludicolo  Legendary: false  Attack Speed: 100  HP: 80  GEN: False  TYPE: Water  Attack DMG:90
+Name: Vigoroth  Legendary: false  Attack Speed: 55  HP: 80  GEN: False  TYPE: Normal  Attack DMG:55
+Name: Grumpig  Legendary: false  Attack Speed: 110  HP: 80  GEN: False  TYPE: Psychic  Attack DMG:90
+Name: Flygon  Legendary: false  Attack Speed: 80  HP: 80  GEN: False  TYPE: Ground  Attack DMG:80
+Name: Glalie  Legendary: false  Attack Speed: 80  HP: 80  GEN: False  TYPE: Ice  Attack DMG:80
+Name: GlalieMega Glalie  Legendary: false  Attack Speed: 80  HP: 80  GEN: False  TYPE: Ice  Attack DMG:120
+Name: Metagross  Legendary: false  Attack Speed: 90  HP: 80  GEN: False  TYPE: Steel  Attack DMG:95
+Name: MetagrossMega Metagross  Legendary: false  Attack Speed: 110  HP: 80  GEN: False  TYPE: Steel  Attack DMG:105
+Name: Regirock  Legendary: true  Attack Speed: 100  HP: 80  GEN: True  TYPE: Rock  Attack DMG:50
+Name: Regice  Legendary: true  Attack Speed: 200  HP: 80  GEN: True  TYPE: Ice  Attack DMG:100
+Name: Registeel  Legendary: true  Attack Speed: 150  HP: 80  GEN: True  TYPE: Steel  Attack DMG:75
+Name: Latias  Legendary: true  Attack Speed: 130  HP: 80  GEN: True  TYPE: Dragon  Attack DMG:110
+Name: LatiasMega Latias  Legendary: true  Attack Speed: 150  HP: 80  GEN: True  TYPE: Dragon  Attack DMG:140
+Name: Latios  Legendary: true  Attack Speed: 110  HP: 80  GEN: True  TYPE: Dragon  Attack DMG:130
+Name: LatiosMega Latios  Legendary: true  Attack Speed: 120  HP: 80  GEN: True  TYPE: Dragon  Attack DMG:160
+Name: Luxray  Legendary: false  Attack Speed: 79  HP: 80  GEN: False  TYPE: Electric  Attack DMG:95
+Name: Mesprit  Legendary: true  Attack Speed: 105  HP: 80  GEN: True  TYPE: Psychic  Attack DMG:105
+Name: Phione  Legendary: false  Attack Speed: 80  HP: 80  GEN: False  TYPE: Water  Attack DMG:80
+Name: Unfezant  Legendary: false  Attack Speed: 55  HP: 80  GEN: False  TYPE: Normal  Attack DMG:65
+Name: Garbodor  Legendary: false  Attack Speed: 82  HP: 80  GEN: False  TYPE: Poison  Attack DMG:60
+Name: Sawsbuck  Legendary: false  Attack Speed: 70  HP: 80  GEN: False  TYPE: Normal  Attack DMG:60
+Name: Accelgor  Legendary: false  Attack Speed: 60  HP: 80  GEN: False  TYPE: Bug  Attack DMG:100
+Name: Vivillon  Legendary: false  Attack Speed: 50  HP: 80  GEN: False  TYPE: Bug  Attack DMG:90
+Name: HoopaHoopa Confined  Legendary: true  Attack Speed: 130  HP: 80  GEN: True  TYPE: Psychic  Attack DMG:150
+Name: HoopaHoopa Unbound  Legendary: true  Attack Speed: 130  HP: 80  GEN: True  TYPE: Psychic  Attack DMG:170
+Name: Volcanion  Legendary: true  Attack Speed: 90  HP: 80  GEN: True  TYPE: Fire  Attack DMG:130
+Name: Blastoise  Legendary: false  Attack Speed: 105  HP: 79  GEN: False  TYPE: Water  Attack DMG:85
+Name: BlastoiseMega Blastoise  Legendary: false  Attack Speed: 115  HP: 79  GEN: False  TYPE: Water  Attack DMG:135
+Name: Bibarel  Legendary: false  Attack Speed: 60  HP: 79  GEN: False  TYPE: Normal  Attack DMG:55
+Name: TornadusIncarnate Forme  Legendary: true  Attack Speed: 80  HP: 79  GEN: True  TYPE: Flying  Attack DMG:125
+Name: TornadusTherian Forme  Legendary: true  Attack Speed: 90  HP: 79  GEN: True  TYPE: Flying  Attack DMG:110
+Name: ThundurusIncarnate Forme  Legendary: true  Attack Speed: 80  HP: 79  GEN: True  TYPE: Electric  Attack DMG:125
+Name: ThundurusTherian Forme  Legendary: true  Attack Speed: 80  HP: 79  GEN: True  TYPE: Electric  Attack DMG:145
+Name: Charizard  Legendary: false  Attack Speed: 85  HP: 78  GEN: False  TYPE: Fire  Attack DMG:109
+Name: CharizardMega Charizard X  Legendary: false  Attack Speed: 85  HP: 78  GEN: False  TYPE: Fire  Attack DMG:130
+Name: CharizardMega Charizard Y  Legendary: false  Attack Speed: 115  HP: 78  GEN: False  TYPE: Fire  Attack DMG:159
+Name: Typhlosion  Legendary: false  Attack Speed: 85  HP: 78  GEN: False  TYPE: Fire  Attack DMG:109
+Name: Linoone  Legendary: false  Attack Speed: 61  HP: 78  GEN: False  TYPE: Normal  Attack DMG:50
+Name: Talonflame  Legendary: false  Attack Speed: 69  HP: 78  GEN: False  TYPE: Fire  Attack DMG:74
+Name: Florges  Legendary: false  Attack Speed: 154  HP: 78  GEN: False  TYPE: Fairy  Attack DMG:112
+Name: Spritzee  Legendary: false  Attack Speed: 65  HP: 78  GEN: False  TYPE: Fairy  Attack DMG:63
+Name: Hawlucha  Legendary: false  Attack Speed: 63  HP: 78  GEN: False  TYPE: Fighting  Attack DMG:74
+Name: Kricketune  Legendary: false  Attack Speed: 51  HP: 77  GEN: False  TYPE: Bug  Attack DMG:55
+Name: Druddigon  Legendary: false  Attack Speed: 90  HP: 77  GEN: False  TYPE: Dragon  Attack DMG:60
+Name: Amaura  Legendary: false  Attack Speed: 63  HP: 77  GEN: False  TYPE: Rock  Attack DMG:67
+Name: Infernape  Legendary: false  Attack Speed: 71  HP: 76  GEN: False  TYPE: Fire  Attack DMG:104
+Name: Shellos  Legendary: false  Attack Speed: 62  HP: 76  GEN: False  TYPE: Water  Attack DMG:57
+Name: Chatot  Legendary: false  Attack Speed: 42  HP: 76  GEN: False  TYPE: Normal  Attack DMG:92
+Name: Munna  Legendary: false  Attack Speed: 55  HP: 76  GEN: False  TYPE: Psychic  Attack DMG:67
+Name: Haxorus  Legendary: false  Attack Speed: 70  HP: 76  GEN: False  TYPE: Dragon  Attack DMG:60
+Name: Sandslash  Legendary: false  Attack Speed: 55  HP: 75  GEN: False  TYPE: Ground  Attack DMG:45
+Name: Golbat  Legendary: false  Attack Speed: 75  HP: 75  GEN: False  TYPE: Poison  Attack DMG:65
+Name: Vileplume  Legendary: false  Attack Speed: 90  HP: 75  GEN: False  TYPE: Grass  Attack DMG:110
+Name: Tauros  Legendary: false  Attack Speed: 70  HP: 75  GEN: False  TYPE: Normal  Attack DMG:40
+Name: Chinchou  Legendary: false  Attack Speed: 56  HP: 75  GEN: False  TYPE: Water  Attack DMG:56
+Name: Bellossom  Legendary: false  Attack Speed: 100  HP: 75  GEN: False  TYPE: Grass  Attack DMG:90
+Name: Jumpluff  Legendary: false  Attack Speed: 95  HP: 75  GEN: False  TYPE: Grass  Attack DMG:55
+Name: Sunflora  Legendary: false  Attack Speed: 85  HP: 75  GEN: False  TYPE: Grass  Attack DMG:105
+Name: Forretress  Legendary: false  Attack Speed: 60  HP: 75  GEN: False  TYPE: Bug  Attack DMG:60
+Name: Steelix  Legendary: false  Attack Speed: 65  HP: 75  GEN: False  TYPE: Steel  Attack DMG:55
+Name: SteelixMega Steelix  Legendary: false  Attack Speed: 95  HP: 75  GEN: False  TYPE: Steel  Attack DMG:55
+Name: Octillery  Legendary: false  Attack Speed: 75  HP: 75  GEN: False  TYPE: Water  Attack DMG:105
+Name: Houndoom  Legendary: false  Attack Speed: 80  HP: 75  GEN: False  TYPE: Dark  Attack DMG:110
+Name: HoundoomMega Houndoom  Legendary: false  Attack Speed: 90  HP: 75  GEN: False  TYPE: Dark  Attack DMG:140
+Name: Kingdra  Legendary: false  Attack Speed: 95  HP: 75  GEN: False  TYPE: Water  Attack DMG:95
+Name: Altaria  Legendary: false  Attack Speed: 105  HP: 75  GEN: False  TYPE: Dragon  Attack DMG:70
+Name: AltariaMega Altaria  Legendary: false  Attack Speed: 105  HP: 75  GEN: False  TYPE: Dragon  Attack DMG:110
+Name: Armaldo  Legendary: false  Attack Speed: 80  HP: 75  GEN: False  TYPE: Rock  Attack DMG:70
+Name: Grotle  Legendary: false  Attack Speed: 65  HP: 75  GEN: False  TYPE: Grass  Attack DMG:55
+Name: Ambipom  Legendary: false  Attack Speed: 66  HP: 75  GEN: False  TYPE: Normal  Attack DMG:60
+Name: Electivire  Legendary: false  Attack Speed: 85  HP: 75  GEN: False  TYPE: Electric  Attack DMG:95
+Name: Magmortar  Legendary: false  Attack Speed: 95  HP: 75  GEN: False  TYPE: Fire  Attack DMG:125
+Name: Gliscor  Legendary: false  Attack Speed: 75  HP: 75  GEN: False  TYPE: Ground  Attack DMG:45
+Name: Uxie  Legendary: true  Attack Speed: 130  HP: 75  GEN: True  TYPE: Psychic  Attack DMG:75
+Name: Azelf  Legendary: true  Attack Speed: 70  HP: 75  GEN: True  TYPE: Psychic  Attack DMG:125
+Name: Serperior  Legendary: false  Attack Speed: 95  HP: 75  GEN: False  TYPE: Grass  Attack DMG:75
+Name: Dewott  Legendary: false  Attack Speed: 60  HP: 75  GEN: False  TYPE: Water  Attack DMG:83
+Name: Simisage  Legendary: false  Attack Speed: 63  HP: 75  GEN: False  TYPE: Grass  Attack DMG:98
+Name: Simisear  Legendary: false  Attack Speed: 63  HP: 75  GEN: False  TYPE: Fire  Attack DMG:98
+Name: Simipour  Legendary: false  Attack Speed: 63  HP: 75  GEN: False  TYPE: Water  Attack DMG:98
+Name: Zebstrika  Legendary: false  Attack Speed: 63  HP: 75  GEN: False  TYPE: Electric  Attack DMG:80
+Name: Timburr  Legendary: false  Attack Speed: 35  HP: 75  GEN: False  TYPE: Fighting  Attack DMG:25
+Name: Palpitoad  Legendary: false  Attack Speed: 55  HP: 75  GEN: False  TYPE: Water  Attack DMG:65
+Name: Sawk  Legendary: false  Attack Speed: 75  HP: 75  GEN: False  TYPE: Fighting  Attack DMG:30
+Name: Leavanny  Legendary: false  Attack Speed: 80  HP: 75  GEN: False  TYPE: Bug  Attack DMG:70
+Name: Maractus  Legendary: false  Attack Speed: 67  HP: 75  GEN: False  TYPE: Grass  Attack DMG:106
+Name: Archeops  Legendary: false  Attack Speed: 65  HP: 75  GEN: False  TYPE: Rock  Attack DMG:112
+Name: Cinccino  Legendary: false  Attack Speed: 60  HP: 75  GEN: False  TYPE: Normal  Attack DMG:65
+Name: Swanna  Legendary: false  Attack Speed: 63  HP: 75  GEN: False  TYPE: Water  Attack DMG:87
+Name: Beheeyem  Legendary: false  Attack Speed: 95  HP: 75  GEN: False  TYPE: Psychic  Attack DMG:125
+Name: Delphox  Legendary: false  Attack Speed: 100  HP: 75  GEN: False  TYPE: Fire  Attack DMG:114
+Name: Furfrou  Legendary: false  Attack Speed: 90  HP: 75  GEN: False  TYPE: Normal  Attack DMG:65
+Name: GourgeistLarge Size  Legendary: false  Attack Speed: 75  HP: 75  GEN: False  TYPE: Ghost  Attack DMG:58
+Name: Carnivine  Legendary: false  Attack Speed: 72  HP: 74  GEN: False  TYPE: Grass  Attack DMG:90
+Name: Carracosta  Legendary: false  Attack Speed: 65  HP: 74  GEN: False  TYPE: Water  Attack DMG:83
+Name: Ferrothorn  Legendary: false  Attack Speed: 116  HP: 74  GEN: False  TYPE: Grass  Attack DMG:54
+Name: MeowsticMale  Legendary: false  Attack Speed: 81  HP: 74  GEN: False  TYPE: Psychic  Attack DMG:83
+Name: MeowsticFemale  Legendary: false  Attack Speed: 81  HP: 74  GEN: False  TYPE: Psychic  Attack DMG:83
+Name: Ninetales  Legendary: false  Attack Speed: 100  HP: 73  GEN: False  TYPE: Fire  Attack DMG:81
+Name: Stantler  Legendary: false  Attack Speed: 65  HP: 73  GEN: False  TYPE: Normal  Attack DMG:85
+Name: Zangoose  Legendary: false  Attack Speed: 60  HP: 73  GEN: False  TYPE: Normal  Attack DMG:60
+Name: Seviper  Legendary: false  Attack Speed: 60  HP: 73  GEN: False  TYPE: Poison  Attack DMG:100
+Name: Makuhita  Legendary: false  Attack Speed: 30  HP: 72  GEN: False  TYPE: Fighting  Attack DMG:20
+Name: Sigilyph  Legendary: false  Attack Speed: 80  HP: 72  GEN: False  TYPE: Psychic  Attack DMG:103
+Name: Zweilous  Legendary: false  Attack Speed: 70  HP: 72  GEN: False  TYPE: Dark  Attack DMG:65
+Name: Greninja  Legendary: false  Attack Speed: 71  HP: 72  GEN: False  TYPE: Water  Attack DMG:103
+Name: Barbaracle  Legendary: false  Attack Speed: 86  HP: 72  GEN: False  TYPE: Rock  Attack DMG:54
+Name: Purugly  Legendary: false  Attack Speed: 59  HP: 71  GEN: False  TYPE: Normal  Attack DMG:64
+Name: Vanilluxe  Legendary: false  Attack Speed: 95  HP: 71  GEN: False  TYPE: Ice  Attack DMG:110
+Name: Genesect  Legendary: false  Attack Speed: 95  HP: 71  GEN: False  TYPE: Bug  Attack DMG:120
+Name: Clawitzer  Legendary: false  Attack Speed: 89  HP: 71  GEN: False  TYPE: Water  Attack DMG:120
+Name: Nidorina  Legendary: false  Attack Speed: 55  HP: 70  GEN: False  TYPE: Poison  Attack DMG:55
+Name: Clefairy  Legendary: false  Attack Speed: 65  HP: 70  GEN: False  TYPE: Fairy  Attack DMG:60
+Name: Venomoth  Legendary: false  Attack Speed: 75  HP: 70  GEN: False  TYPE: Bug  Attack DMG:90
+Name: Machop  Legendary: false  Attack Speed: 35  HP: 70  GEN: False  TYPE: Fighting  Attack DMG:35
+Name: Scyther  Legendary: false  Attack Speed: 80  HP: 70  GEN: False  TYPE: Bug  Attack DMG:55
+Name: Omastar  Legendary: false  Attack Speed: 70  HP: 70  GEN: False  TYPE: Rock  Attack DMG:115
+Name: Ariados  Legendary: false  Attack Speed: 60  HP: 70  GEN: False  TYPE: Bug  Attack DMG:60
+Name: Flaaffy  Legendary: false  Attack Speed: 60  HP: 70  GEN: False  TYPE: Electric  Attack DMG:80
+Name: Marill  Legendary: false  Attack Speed: 50  HP: 70  GEN: False  TYPE: Water  Attack DMG:20
+Name: Sudowoodo  Legendary: false  Attack Speed: 65  HP: 70  GEN: False  TYPE: Rock  Attack DMG:30
+Name: Girafarig  Legendary: false  Attack Speed: 65  HP: 70  GEN: False  TYPE: Normal  Attack DMG:90
+Name: Scizor  Legendary: false  Attack Speed: 80  HP: 70  GEN: False  TYPE: Bug  Attack DMG:55
+Name: ScizorMega Scizor  Legendary: false  Attack Speed: 100  HP: 70  GEN: False  TYPE: Bug  Attack DMG:65
+Name: Pupitar  Legendary: false  Attack Speed: 70  HP: 70  GEN: False  TYPE: Rock  Attack DMG:65
+Name: Sceptile  Legendary: false  Attack Speed: 85  HP: 70  GEN: False  TYPE: Grass  Attack DMG:105
+Name: SceptileMega Sceptile  Legendary: false  Attack Speed: 85  HP: 70  GEN: False  TYPE: Grass  Attack DMG:145
+Name: Marshtomp  Legendary: false  Attack Speed: 70  HP: 70  GEN: False  TYPE: Water  Attack DMG:60
+Name: Mightyena  Legendary: false  Attack Speed: 60  HP: 70  GEN: False  TYPE: Dark  Attack DMG:60
+Name: Nuzleaf  Legendary: false  Attack Speed: 40  HP: 70  GEN: False  TYPE: Grass  Attack DMG:60
+Name: Masquerain  Legendary: false  Attack Speed: 82  HP: 70  GEN: False  TYPE: Bug  Attack DMG:80
+Name: Delcatty  Legendary: false  Attack Speed: 55  HP: 70  GEN: False  TYPE: Normal  Attack DMG:55
+Name: Aggron  Legendary: false  Attack Speed: 60  HP: 70  GEN: False  TYPE: Steel  Attack DMG:60
+Name: AggronMega Aggron  Legendary: false  Attack Speed: 80  HP: 70  GEN: False  TYPE: Steel  Attack DMG:60
+Name: Manectric  Legendary: false  Attack Speed: 60  HP: 70  GEN: False  TYPE: Electric  Attack DMG:105
+Name: ManectricMega Manectric  Legendary: false  Attack Speed: 80  HP: 70  GEN: False  TYPE: Electric  Attack DMG:135
+Name: Gulpin  Legendary: false  Attack Speed: 53  HP: 70  GEN: False  TYPE: Poison  Attack DMG:43
+Name: Sharpedo  Legendary: false  Attack Speed: 40  HP: 70  GEN: False  TYPE: Water  Attack DMG:95
+Name: SharpedoMega Sharpedo  Legendary: false  Attack Speed: 65  HP: 70  GEN: False  TYPE: Water  Attack DMG:110
+Name: Camerupt  Legendary: false  Attack Speed: 75  HP: 70  GEN: False  TYPE: Fire  Attack DMG:105
+Name: CameruptMega Camerupt  Legendary: false  Attack Speed: 105  HP: 70  GEN: False  TYPE: Fire  Attack DMG:145
+Name: Torkoal  Legendary: false  Attack Speed: 70  HP: 70  GEN: False  TYPE: Fire  Attack DMG:85
+Name: Cacturne  Legendary: false  Attack Speed: 60  HP: 70  GEN: False  TYPE: Grass  Attack DMG:115
+Name: Lunatone  Legendary: false  Attack Speed: 85  HP: 70  GEN: False  TYPE: Rock  Attack DMG:95
+Name: Solrock  Legendary: false  Attack Speed: 65  HP: 70  GEN: False  TYPE: Rock  Attack DMG:55
+Name: Castform  Legendary: false  Attack Speed: 70  HP: 70  GEN: False  TYPE: Normal  Attack DMG:70
+Name: Spheal  Legendary: false  Attack Speed: 50  HP: 70  GEN: False  TYPE: Ice  Attack DMG:55
+Name: Mothim  Legendary: false  Attack Speed: 50  HP: 70  GEN: False  TYPE: Bug  Attack DMG:94
+Name: Vespiquen  Legendary: false  Attack Speed: 102  HP: 70  GEN: False  TYPE: Bug  Attack DMG:80
+Name: Cherrim  Legendary: false  Attack Speed: 78  HP: 70  GEN: False  TYPE: Grass  Attack DMG:87
+Name: Lucario  Legendary: false  Attack Speed: 70  HP: 70  GEN: False  TYPE: Fighting  Attack DMG:115
+Name: LucarioMega Lucario  Legendary: false  Attack Speed: 70  HP: 70  GEN: False  TYPE: Fighting  Attack DMG:140
+Name: Drapion  Legendary: false  Attack Speed: 75  HP: 70  GEN: False  TYPE: Poison  Attack DMG:60
+Name: Weavile  Legendary: false  Attack Speed: 85  HP: 70  GEN: False  TYPE: Dark  Attack DMG:45
+Name: Magnezone  Legendary: false  Attack Speed: 90  HP: 70  GEN: False  TYPE: Electric  Attack DMG:130
+Name: Froslass  Legendary: false  Attack Speed: 70  HP: 70  GEN: False  TYPE: Ice  Attack DMG:80
+Name: Darkrai  Legendary: true  Attack Speed: 90  HP: 70  GEN: True  TYPE: Dark  Attack DMG:135
+Name: Boldore  Legendary: false  Attack Speed: 40  HP: 70  GEN: False  TYPE: Rock  Attack DMG:50
+Name: Lilligant  Legendary: false  Attack Speed: 75  HP: 70  GEN: False  TYPE: Grass  Attack DMG:110
+Name: Basculin  Legendary: false  Attack Speed: 55  HP: 70  GEN: False  TYPE: Water  Attack DMG:80
+Name: Darumaka  Legendary: false  Attack Speed: 45  HP: 70  GEN: False  TYPE: Fire  Attack DMG:15
+Name: Crustle  Legendary: false  Attack Speed: 75  HP: 70  GEN: False  TYPE: Bug  Attack DMG:65
+Name: Gothitelle  Legendary: false  Attack Speed: 110  HP: 70  GEN: False  TYPE: Psychic  Attack DMG:95
+Name: Escavalier  Legendary: false  Attack Speed: 105  HP: 70  GEN: False  TYPE: Bug  Attack DMG:60
+Name: Galvantula  Legendary: false  Attack Speed: 60  HP: 70  GEN: False  TYPE: Bug  Attack DMG:97
+Name: Cryogonal  Legendary: false  Attack Speed: 135  HP: 70  GEN: False  TYPE: Ice  Attack DMG:95
+Name: Rufflet  Legendary: false  Attack Speed: 50  HP: 70  GEN: False  TYPE: Normal  Attack DMG:37
+Name: Vullaby  Legendary: false  Attack Speed: 65  HP: 70  GEN: False  TYPE: Dark  Attack DMG:45
+Name: Lumineon  Legendary: false  Attack Speed: 86  HP: 69  GEN: False  TYPE: Water  Attack DMG:69
+Name: Foongus  Legendary: false  Attack Speed: 55  HP: 69  GEN: False  TYPE: Grass  Attack DMG:55
+Name: Gardevoir  Legendary: false  Attack Speed: 115  HP: 68  GEN: False  TYPE: Psychic  Attack DMG:125
+Name: GardevoirMega Gardevoir  Legendary: false  Attack Speed: 135  HP: 68  GEN: False  TYPE: Psychic  Attack DMG:165
+Name: Gabite  Legendary: false  Attack Speed: 55  HP: 68  GEN: False  TYPE: Dragon  Attack DMG:50
+Name: Hippopotas  Legendary: false  Attack Speed: 42  HP: 68  GEN: False  TYPE: Ground  Attack DMG:38
+Name: Gallade  Legendary: false  Attack Speed: 115  HP: 68  GEN: False  TYPE: Psychic  Attack DMG:65
+Name: GalladeMega Gallade  Legendary: false  Attack Speed: 115  HP: 68  GEN: False  TYPE: Psychic  Attack DMG:65
+Name: Sliggoo  Legendary: false  Attack Speed: 113  HP: 68  GEN: False  TYPE: Dragon  Attack DMG:83
+Name: Cranidos  Legendary: false  Attack Speed: 30  HP: 67  GEN: False  TYPE: Rock  Attack DMG:30
+Name: Bronzong  Legendary: false  Attack Speed: 116  HP: 67  GEN: False  TYPE: Steel  Attack DMG:79
+Name: Swoobat  Legendary: false  Attack Speed: 55  HP: 67  GEN: False  TYPE: Psychic  Attack DMG:77
+Name: Pancham  Legendary: false  Attack Speed: 48  HP: 67  GEN: False  TYPE: Fighting  Attack DMG:46
+Name: Dedenne  Legendary: false  Attack Speed: 67  HP: 67  GEN: False  TYPE: Electric  Attack DMG:81
+Name: Lileep  Legendary: false  Attack Speed: 87  HP: 66  GEN: False  TYPE: Rock  Attack DMG:61
+Name: Fraxure  Legendary: false  Attack Speed: 50  HP: 66  GEN: False  TYPE: Dragon  Attack DMG:40
+Name: Skiddo  Legendary: false  Attack Speed: 57  HP: 66  GEN: False  TYPE: Grass  Attack DMG:62
+Name: Beedrill  Legendary: false  Attack Speed: 80  HP: 65  GEN: False  TYPE: Bug  Attack DMG:45
+Name: BeedrillMega Beedrill  Legendary: false  Attack Speed: 80  HP: 65  GEN: False  TYPE: Bug  Attack DMG:15
+Name: Fearow  Legendary: false  Attack Speed: 61  HP: 65  GEN: False  TYPE: Normal  Attack DMG:61
+Name: Persian  Legendary: false  Attack Speed: 65  HP: 65  GEN: False  TYPE: Normal  Attack DMG:65
+Name: Primeape  Legendary: false  Attack Speed: 70  HP: 65  GEN: False  TYPE: Fighting  Attack DMG:60
+Name: Poliwhirl  Legendary: false  Attack Speed: 50  HP: 65  GEN: False  TYPE: Water  Attack DMG:50
+Name: Weepinbell  Legendary: false  Attack Speed: 45  HP: 65  GEN: False  TYPE: Grass  Attack DMG:85
+Name: Rapidash  Legendary: false  Attack Speed: 80  HP: 65  GEN: False  TYPE: Fire  Attack DMG:80
+Name: Seel  Legendary: false  Attack Speed: 70  HP: 65  GEN: False  TYPE: Water  Attack DMG:45
+Name: Weezing  Legendary: false  Attack Speed: 70  HP: 65  GEN: False  TYPE: Poison  Attack DMG:85
+Name: Tangela  Legendary: false  Attack Speed: 40  HP: 65  GEN: False  TYPE: Grass  Attack DMG:100
+Name: Jynx  Legendary: false  Attack Speed: 95  HP: 65  GEN: False  TYPE: Ice  Attack DMG:115
+Name: Electabuzz  Legendary: false  Attack Speed: 85  HP: 65  GEN: False  TYPE: Electric  Attack DMG:95
+Name: Magmar  Legendary: false  Attack Speed: 85  HP: 65  GEN: False  TYPE: Fire  Attack DMG:100
+Name: Pinsir  Legendary: false  Attack Speed: 70  HP: 65  GEN: False  TYPE: Bug  Attack DMG:55
+Name: PinsirMega Pinsir  Legendary: false  Attack Speed: 90  HP: 65  GEN: False  TYPE: Bug  Attack DMG:65
+Name: Jolteon  Legendary: false  Attack Speed: 95  HP: 65  GEN: False  TYPE: Electric  Attack DMG:110
+Name: Flareon  Legendary: false  Attack Speed: 110  HP: 65  GEN: False  TYPE: Fire  Attack DMG:95
+Name: Porygon  Legendary: false  Attack Speed: 75  HP: 65  GEN: False  TYPE: Normal  Attack DMG:85
+Name: Croconaw  Legendary: false  Attack Speed: 63  HP: 65  GEN: False  TYPE: Water  Attack DMG:59
+Name: Xatu  Legendary: false  Attack Speed: 70  HP: 65  GEN: False  TYPE: Psychic  Attack DMG:95
+Name: Yanma  Legendary: false  Attack Speed: 45  HP: 65  GEN: False  TYPE: Bug  Attack DMG:75
+Name: Espeon  Legendary: false  Attack Speed: 95  HP: 65  GEN: False  TYPE: Psychic  Attack DMG:130
+Name: Gligar  Legendary: false  Attack Speed: 65  HP: 65  GEN: False  TYPE: Ground  Attack DMG:35
+Name: Qwilfish  Legendary: false  Attack Speed: 55  HP: 65  GEN: False  TYPE: Water  Attack DMG:55
+Name: Mantine  Legendary: false  Attack Speed: 140  HP: 65  GEN: False  TYPE: Water  Attack DMG:80
+Name: Skarmory  Legendary: false  Attack Speed: 70  HP: 65  GEN: False  TYPE: Steel  Attack DMG:40
+Name: Volbeat  Legendary: false  Attack Speed: 75  HP: 65  GEN: False  TYPE: Bug  Attack DMG:47
+Name: Illumise  Legendary: false  Attack Speed: 75  HP: 65  GEN: False  TYPE: Bug  Attack DMG:73
+Name: Chimecho  Legendary: false  Attack Speed: 80  HP: 65  GEN: False  TYPE: Psychic  Attack DMG:95
+Name: Absol  Legendary: false  Attack Speed: 60  HP: 65  GEN: False  TYPE: Dark  Attack DMG:75
+Name: AbsolMega Absol  Legendary: false  Attack Speed: 60  HP: 65  GEN: False  TYPE: Dark  Attack DMG:115
+Name: Shelgon  Legendary: false  Attack Speed: 50  HP: 65  GEN: False  TYPE: Dragon  Attack DMG:60
+Name: Lopunny  Legendary: false  Attack Speed: 96  HP: 65  GEN: False  TYPE: Normal  Attack DMG:54
+Name: LopunnyMega Lopunny  Legendary: false  Attack Speed: 96  HP: 65  GEN: False  TYPE: Normal  Attack DMG:54
+Name: Leafeon  Legendary: false  Attack Speed: 65  HP: 65  GEN: False  TYPE: Grass  Attack DMG:60
+Name: Glaceon  Legendary: false  Attack Speed: 95  HP: 65  GEN: False  TYPE: Ice  Attack DMG:130
+Name: Tepig  Legendary: false  Attack Speed: 45  HP: 65  GEN: False  TYPE: Fire  Attack DMG:45
+Name: Herdier  Legendary: false  Attack Speed: 65  HP: 65  GEN: False  TYPE: Normal  Attack DMG:35
+Name: Scrafty  Legendary: false  Attack Speed: 115  HP: 65  GEN: False  TYPE: Dark  Attack DMG:45
+Name: Duosion  Legendary: false  Attack Speed: 60  HP: 65  GEN: False  TYPE: Psychic  Attack DMG:125
+Name: Eelektrik  Legendary: false  Attack Speed: 70  HP: 65  GEN: False  TYPE: Electric  Attack DMG:75
+Name: Mienshao  Legendary: false  Attack Speed: 60  HP: 65  GEN: False  TYPE: Fighting  Attack DMG:95
+Name: Bisharp  Legendary: false  Attack Speed: 70  HP: 65  GEN: False  TYPE: Dark  Attack DMG:60
+Name: Dragalge  Legendary: false  Attack Speed: 123  HP: 65  GEN: False  TYPE: Poison  Attack DMG:97
+Name: GourgeistAverage Size  Legendary: false  Attack Speed: 75  HP: 65  GEN: False  TYPE: Ghost  Attack DMG:58
+Name: Whismur  Legendary: false  Attack Speed: 23  HP: 64  GEN: False  TYPE: Normal  Attack DMG:51
+Name: Banette  Legendary: false  Attack Speed: 63  HP: 64  GEN: False  TYPE: Ghost  Attack DMG:83
+Name: BanetteMega Banette  Legendary: false  Attack Speed: 83  HP: 64  GEN: False  TYPE: Ghost  Attack DMG:93
+Name: Monferno  Legendary: false  Attack Speed: 52  HP: 64  GEN: False  TYPE: Fire  Attack DMG:78
+Name: Prinplup  Legendary: false  Attack Speed: 76  HP: 64  GEN: False  TYPE: Water  Attack DMG:81
+Name: Liepard  Legendary: false  Attack Speed: 50  HP: 64  GEN: False  TYPE: Dark  Attack DMG:88
+Name: Pidgeotto  Legendary: false  Attack Speed: 50  HP: 63  GEN: False  TYPE: Normal  Attack DMG:50
+Name: Crawdaunt  Legendary: false  Attack Speed: 55  HP: 63  GEN: False  TYPE: Water  Attack DMG:90
+Name: Stunky  Legendary: false  Attack Speed: 41  HP: 63  GEN: False  TYPE: Poison  Attack DMG:41
+Name: Tranquill  Legendary: false  Attack Speed: 42  HP: 62  GEN: False  TYPE: Normal  Attack DMG:50
+Name: Ducklett  Legendary: false  Attack Speed: 50  HP: 62  GEN: False  TYPE: Water  Attack DMG:44
+Name: Fletchinder  Legendary: false  Attack Speed: 52  HP: 62  GEN: False  TYPE: Fire  Attack DMG:56
+Name: Litleo  Legendary: false  Attack Speed: 54  HP: 62  GEN: False  TYPE: Fire  Attack DMG:73
+Name: Espurr  Legendary: false  Attack Speed: 60  HP: 62  GEN: False  TYPE: Psychic  Attack DMG:63
+Name: Swirlix  Legendary: false  Attack Speed: 57  HP: 62  GEN: False  TYPE: Fairy  Attack DMG:59
+Name: Heliolisk  Legendary: false  Attack Speed: 94  HP: 62  GEN: False  TYPE: Electric  Attack DMG:109
+Name: Nidorino  Legendary: false  Attack Speed: 55  HP: 61  GEN: False  TYPE: Poison  Attack DMG:55
+Name: Dragonair  Legendary: false  Attack Speed: 70  HP: 61  GEN: False  TYPE: Dragon  Attack DMG:70
+Name: Ninjask  Legendary: false  Attack Speed: 50  HP: 61  GEN: False  TYPE: Bug  Attack DMG:50
+Name: Quilladin  Legendary: false  Attack Speed: 58  HP: 61  GEN: False  TYPE: Grass  Attack DMG:56
+Name: Ivysaur  Legendary: false  Attack Speed: 80  HP: 60  GEN: False  TYPE: Grass  Attack DMG:80
+Name: Butterfree  Legendary: false  Attack Speed: 80  HP: 60  GEN: False  TYPE: Bug  Attack DMG:90
+Name: Arbok  Legendary: false  Attack Speed: 79  HP: 60  GEN: False  TYPE: Poison  Attack DMG:65
+Name: Raichu  Legendary: false  Attack Speed: 80  HP: 60  GEN: False  TYPE: Electric  Attack DMG:90
+Name: Gloom  Legendary: false  Attack Speed: 75  HP: 60  GEN: False  TYPE: Grass  Attack DMG:85
+Name: Parasect  Legendary: false  Attack Speed: 80  HP: 60  GEN: False  TYPE: Bug  Attack DMG:60
+Name: Venonat  Legendary: false  Attack Speed: 55  HP: 60  GEN: False  TYPE: Bug  Attack DMG:40
+Name: Dodrio  Legendary: false  Attack Speed: 60  HP: 60  GEN: False  TYPE: Normal  Attack DMG:60
+Name: Gengar  Legendary: false  Attack Speed: 75  HP: 60  GEN: False  TYPE: Ghost  Attack DMG:130
+Name: GengarMega Gengar  Legendary: false  Attack Speed: 95  HP: 60  GEN: False  TYPE: Ghost  Attack DMG:170
+Name: Drowzee  Legendary: false  Attack Speed: 90  HP: 60  GEN: False  TYPE: Psychic  Attack DMG:43
+Name: Electrode  Legendary: false  Attack Speed: 80  HP: 60  GEN: False  TYPE: Electric  Attack DMG:80
+Name: Exeggcute  Legendary: false  Attack Speed: 45  HP: 60  GEN: False  TYPE: Grass  Attack DMG:60
+Name: Marowak  Legendary: false  Attack Speed: 80  HP: 60  GEN: False  TYPE: Ground  Attack DMG:50
+Name: Starmie  Legendary: false  Attack Speed: 85  HP: 60  GEN: False  TYPE: Water  Attack DMG:100
+Name: Kabutops  Legendary: false  Attack Speed: 70  HP: 60  GEN: False  TYPE: Rock  Attack DMG:65
+Name: Bayleef  Legendary: false  Attack Speed: 80  HP: 60  GEN: False  TYPE: Grass  Attack DMG:63
+Name: Hoothoot  Legendary: false  Attack Speed: 56  HP: 60  GEN: False  TYPE: Normal  Attack DMG:36
+Name: Murkrow  Legendary: false  Attack Speed: 42  HP: 60  GEN: False  TYPE: Dark  Attack DMG:85
+Name: Misdreavus  Legendary: false  Attack Speed: 85  HP: 60  GEN: False  TYPE: Ghost  Attack DMG:85
+Name: Snubbull  Legendary: false  Attack Speed: 40  HP: 60  GEN: False  TYPE: Fairy  Attack DMG:40
+Name: Teddiursa  Legendary: false  Attack Speed: 50  HP: 60  GEN: False  TYPE: Normal  Attack DMG:50
+Name: Combusken  Legendary: false  Attack Speed: 60  HP: 60  GEN: False  TYPE: Fire  Attack DMG:85
+Name: Beautifly  Legendary: false  Attack Speed: 50  HP: 60  GEN: False  TYPE: Bug  Attack DMG:100
+Name: Dustox  Legendary: false  Attack Speed: 90  HP: 60  GEN: False  TYPE: Bug  Attack DMG:50
+Name: Lombre  Legendary: false  Attack Speed: 70  HP: 60  GEN: False  TYPE: Water  Attack DMG:60
+Name: Swellow  Legendary: false  Attack Speed: 50  HP: 60  GEN: False  TYPE: Normal  Attack DMG:50
+Name: Pelipper  Legendary: false  Attack Speed: 70  HP: 60  GEN: False  TYPE: Water  Attack DMG:85
+Name: Shroomish  Legendary: false  Attack Speed: 60  HP: 60  GEN: False  TYPE: Grass  Attack DMG:40
+Name: Breloom  Legendary: false  Attack Speed: 60  HP: 60  GEN: False  TYPE: Grass  Attack DMG:60
+Name: Slakoth  Legendary: false  Attack Speed: 35  HP: 60  GEN: False  TYPE: Normal  Attack DMG:35
+Name: Lairon  Legendary: false  Attack Speed: 50  HP: 60  GEN: False  TYPE: Steel  Attack DMG:50
+Name: Medicham  Legendary: false  Attack Speed: 75  HP: 60  GEN: False  TYPE: Fighting  Attack DMG:60
+Name: MedichamMega Medicham  Legendary: false  Attack Speed: 85  HP: 60  GEN: False  TYPE: Fighting  Attack DMG:80
+Name: Plusle  Legendary: false  Attack Speed: 75  HP: 60  GEN: False  TYPE: Electric  Attack DMG:85
+Name: Minun  Legendary: false  Attack Speed: 85  HP: 60  GEN: False  TYPE: Electric  Attack DMG:75
+Name: Numel  Legendary: false  Attack Speed: 45  HP: 60  GEN: False  TYPE: Fire  Attack DMG:65
+Name: Spoink  Legendary: false  Attack Speed: 80  HP: 60  GEN: False  TYPE: Psychic  Attack DMG:70
+Name: Spinda  Legendary: false  Attack Speed: 60  HP: 60  GEN: False  TYPE: Normal  Attack DMG:60
+Name: Claydol  Legendary: false  Attack Speed: 120  HP: 60  GEN: False  TYPE: Ground  Attack DMG:70
+Name: Kecleon  Legendary: false  Attack Speed: 120  HP: 60  GEN: False  TYPE: Normal  Attack DMG:60
+Name: Metang  Legendary: false  Attack Speed: 80  HP: 60  GEN: False  TYPE: Steel  Attack DMG:55
+Name: Luxio  Legendary: false  Attack Speed: 49  HP: 60  GEN: False  TYPE: Electric  Attack DMG:60
+Name: Roserade  Legendary: false  Attack Speed: 105  HP: 60  GEN: False  TYPE: Grass  Attack DMG:125
+Name: Bastiodon  Legendary: false  Attack Speed: 138  HP: 60  GEN: False  TYPE: Rock  Attack DMG:47
+Name: WormadamPlant Cloak  Legendary: false  Attack Speed: 105  HP: 60  GEN: False  TYPE: Bug  Attack DMG:79
+Name: WormadamSandy Cloak  Legendary: false  Attack Speed: 85  HP: 60  GEN: False  TYPE: Bug  Attack DMG:59
+Name: WormadamTrash Cloak  Legendary: false  Attack Speed: 95  HP: 60  GEN: False  TYPE: Bug  Attack DMG:69
+Name: Pachirisu  Legendary: false  Attack Speed: 90  HP: 60  GEN: False  TYPE: Electric  Attack DMG:45
+Name: Mismagius  Legendary: false  Attack Speed: 105  HP: 60  GEN: False  TYPE: Ghost  Attack DMG:105
+Name: Snover  Legendary: false  Attack Speed: 60  HP: 60  GEN: False  TYPE: Grass  Attack DMG:62
+Name: Probopass  Legendary: false  Attack Speed: 150  HP: 60  GEN: False  TYPE: Rock  Attack DMG:75
+Name: Servine  Legendary: false  Attack Speed: 75  HP: 60  GEN: False  TYPE: Grass  Attack DMG:60
+Name: Watchog  Legendary: false  Attack Speed: 69  HP: 60  GEN: False  TYPE: Normal  Attack DMG:60
+Name: Drilbur  Legendary: false  Attack Speed: 45  HP: 60  GEN: False  TYPE: Ground  Attack DMG:30
+Name: Scolipede  Legendary: false  Attack Speed: 69  HP: 60  GEN: False  TYPE: Bug  Attack DMG:55
+Name: Whimsicott  Legendary: false  Attack Speed: 75  HP: 60  GEN: False  TYPE: Grass  Attack DMG:77
+Name: Krokorok  Legendary: false  Attack Speed: 45  HP: 60  GEN: False  TYPE: Ground  Attack DMG:45
+Name: Zoroark  Legendary: false  Attack Speed: 60  HP: 60  GEN: False  TYPE: Dark  Attack DMG:120
+Name: Gothorita  Legendary: false  Attack Speed: 85  HP: 60  GEN: False  TYPE: Psychic  Attack DMG:75
+Name: Deerling  Legendary: false  Attack Speed: 50  HP: 60  GEN: False  TYPE: Normal  Attack DMG:40
+Name: Klang  Legendary: false  Attack Speed: 85  HP: 60  GEN: False  TYPE: Steel  Attack DMG:70
+Name: Klinklang  Legendary: false  Attack Speed: 85  HP: 60  GEN: False  TYPE: Steel  Attack DMG:70
+Name: Lampent  Legendary: false  Attack Speed: 60  HP: 60  GEN: False  TYPE: Ghost  Attack DMG:95
+Name: Chandelure  Legendary: false  Attack Speed: 90  HP: 60  GEN: False  TYPE: Ghost  Attack DMG:145
+Name: AegislashBlade Forme  Legendary: false  Attack Speed: 50  HP: 60  GEN: False  TYPE: Steel  Attack DMG:150
+Name: AegislashShield Forme  Legendary: false  Attack Speed: 150  HP: 60  GEN: False  TYPE: Steel  Attack DMG:50
+Name: Wartortle  Legendary: false  Attack Speed: 80  HP: 59  GEN: False  TYPE: Water  Attack DMG:65
+Name: Bidoof  Legendary: false  Attack Speed: 40  HP: 59  GEN: False  TYPE: Normal  Attack DMG:35
+Name: Golett  Legendary: false  Attack Speed: 50  HP: 59  GEN: False  TYPE: Ground  Attack DMG:35
+Name: Braixen  Legendary: false  Attack Speed: 70  HP: 59  GEN: False  TYPE: Fire  Attack DMG:90
+Name: Doublade  Legendary: false  Attack Speed: 49  HP: 59  GEN: False  TYPE: Steel  Attack DMG:45
+Name: PumpkabooSuper Size  Legendary: false  Attack Speed: 55  HP: 59  GEN: False  TYPE: Ghost  Attack DMG:44
+Name: Charmeleon  Legendary: false  Attack Speed: 65  HP: 58  GEN: False  TYPE: Fire  Attack DMG:80
+Name: Quilava  Legendary: false  Attack Speed: 65  HP: 58  GEN: False  TYPE: Fire  Attack DMG:80
+Name: Gible  Legendary: false  Attack Speed: 45  HP: 58  GEN: False  TYPE: Dragon  Attack DMG:40
+Name: Cofagrigus  Legendary: false  Attack Speed: 105  HP: 58  GEN: False  TYPE: Ghost  Attack DMG:95
+Name: Durant  Legendary: false  Attack Speed: 48  HP: 58  GEN: False  TYPE: Bug  Attack DMG:48
+Name: Tyrunt  Legendary: false  Attack Speed: 45  HP: 58  GEN: False  TYPE: Rock  Attack DMG:45
+Name: Bronzor  Legendary: false  Attack Speed: 86  HP: 57  GEN: False  TYPE: Steel  Attack DMG:24
+Name: Klefki  Legendary: false  Attack Speed: 87  HP: 57  GEN: False  TYPE: Steel  Attack DMG:80
+Name: Chespin  Legendary: false  Attack Speed: 45  HP: 56  GEN: False  TYPE: Grass  Attack DMG:48
+Name: Raticate  Legendary: false  Attack Speed: 70  HP: 55  GEN: False  TYPE: Normal  Attack DMG:50
+Name: Nidoran♀  Legendary: false  Attack Speed: 40  HP: 55  GEN: False  TYPE: Poison  Attack DMG:40
+Name: Growlithe  Legendary: false  Attack Speed: 50  HP: 55  GEN: False  TYPE: Fire  Attack DMG:70
+Name: Alakazam  Legendary: false  Attack Speed: 95  HP: 55  GEN: False  TYPE: Psychic  Attack DMG:135
+Name: AlakazamMega Alakazam  Legendary: false  Attack Speed: 95  HP: 55  GEN: False  TYPE: Psychic  Attack DMG:175
+Name: Graveler  Legendary: false  Attack Speed: 45  HP: 55  GEN: False  TYPE: Rock  Attack DMG:45
+Name: Kingler  Legendary: false  Attack Speed: 50  HP: 55  GEN: False  TYPE: Water  Attack DMG:50
+Name: Seadra  Legendary: false  Attack Speed: 45  HP: 55  GEN: False  TYPE: Water  Attack DMG:95
+Name: Eevee  Legendary: false  Attack Speed: 65  HP: 55  GEN: False  TYPE: Normal  Attack DMG:45
+Name: Ledian  Legendary: false  Attack Speed: 110  HP: 55  GEN: False  TYPE: Bug  Attack DMG:55
+Name: Togetic  Legendary: false  Attack Speed: 105  HP: 55  GEN: False  TYPE: Fairy  Attack DMG:80
+Name: Mareep  Legendary: false  Attack Speed: 45  HP: 55  GEN: False  TYPE: Electric  Attack DMG:65
+Name: Skiploom  Legendary: false  Attack Speed: 65  HP: 55  GEN: False  TYPE: Grass  Attack DMG:45
+Name: Aipom  Legendary: false  Attack Speed: 55  HP: 55  GEN: False  TYPE: Normal  Attack DMG:40
+Name: Wooper  Legendary: false  Attack Speed: 25  HP: 55  GEN: False  TYPE: Water  Attack DMG:25
+Name: Sneasel  Legendary: false  Attack Speed: 75  HP: 55  GEN: False  TYPE: Dark  Attack DMG:35
+Name: Corsola  Legendary: false  Attack Speed: 85  HP: 55  GEN: False  TYPE: Water  Attack DMG:65
+Name: Smeargle  Legendary: false  Attack Speed: 45  HP: 55  GEN: False  TYPE: Normal  Attack DMG:20
+Name: Huntail  Legendary: false  Attack Speed: 75  HP: 55  GEN: False  TYPE: Water  Attack DMG:94
+Name: Gorebyss  Legendary: false  Attack Speed: 75  HP: 55  GEN: False  TYPE: Water  Attack DMG:114
+Name: Turtwig  Legendary: false  Attack Speed: 55  HP: 55  GEN: False  TYPE: Grass  Attack DMG:45
+Name: Staravia  Legendary: false  Attack Speed: 40  HP: 55  GEN: False  TYPE: Normal  Attack DMG:40
+Name: Buizel  Legendary: false  Attack Speed: 30  HP: 55  GEN: False  TYPE: Water  Attack DMG:60
+Name: Buneary  Legendary: false  Attack Speed: 56  HP: 55  GEN: False  TYPE: Normal  Attack DMG:44
+Name: Oshawott  Legendary: false  Attack Speed: 45  HP: 55  GEN: False  TYPE: Water  Attack DMG:63
+Name: Roggenrola  Legendary: false  Attack Speed: 25  HP: 55  GEN: False  TYPE: Rock  Attack DMG:25
+Name: Woobat  Legendary: false  Attack Speed: 43  HP: 55  GEN: False  TYPE: Psychic  Attack DMG:55
+Name: Swadloon  Legendary: false  Attack Speed: 80  HP: 55  GEN: False  TYPE: Bug  Attack DMG:50
+Name: Archen  Legendary: false  Attack Speed: 45  HP: 55  GEN: False  TYPE: Rock  Attack DMG:74
+Name: Minccino  Legendary: false  Attack Speed: 40  HP: 55  GEN: False  TYPE: Normal  Attack DMG:40
+Name: Emolga  Legendary: false  Attack Speed: 60  HP: 55  GEN: False  TYPE: Electric  Attack DMG:75
+Name: Frillish  Legendary: false  Attack Speed: 85  HP: 55  GEN: False  TYPE: Water  Attack DMG:65
+Name: Elgyem  Legendary: false  Attack Speed: 55  HP: 55  GEN: False  TYPE: Psychic  Attack DMG:85
+Name: Cubchoo  Legendary: false  Attack Speed: 40  HP: 55  GEN: False  TYPE: Ice  Attack DMG:60
+Name: Larvesta  Legendary: false  Attack Speed: 55  HP: 55  GEN: False  TYPE: Bug  Attack DMG:50
+Name: GourgeistSmall Size  Legendary: false  Attack Speed: 75  HP: 55  GEN: False  TYPE: Ghost  Attack DMG:58
+Name: Bergmite  Legendary: false  Attack Speed: 35  HP: 55  GEN: False  TYPE: Ice  Attack DMG:32
+Name: Tirtouga  Legendary: false  Attack Speed: 45  HP: 54  GEN: False  TYPE: Water  Attack DMG:53
+Name: Frogadier  Legendary: false  Attack Speed: 56  HP: 54  GEN: False  TYPE: Water  Attack DMG:83
+Name: Floette  Legendary: false  Attack Speed: 98  HP: 54  GEN: False  TYPE: Fairy  Attack DMG:75
+Name: PumpkabooLarge Size  Legendary: false  Attack Speed: 55  HP: 54  GEN: False  TYPE: Ghost  Attack DMG:44
+Name: Piplup  Legendary: false  Attack Speed: 56  HP: 53  GEN: False  TYPE: Water  Attack DMG:61
+Name: Inkay  Legendary: false  Attack Speed: 46  HP: 53  GEN: False  TYPE: Dark  Attack DMG:37
+Name: Farfetch'd  Legendary: false  Attack Speed: 62  HP: 52  GEN: False  TYPE: Normal  Attack DMG:58
+Name: Deino  Legendary: false  Attack Speed: 50  HP: 52  GEN: False  TYPE: Dark  Attack DMG:45
+Name: Vanillish  Legendary: false  Attack Speed: 75  HP: 51  GEN: False  TYPE: Ice  Attack DMG:80
+Name: Metapod  Legendary: false  Attack Speed: 25  HP: 50  GEN: False  TYPE: Bug  Attack DMG:25
+Name: Sandshrew  Legendary: false  Attack Speed: 30  HP: 50  GEN: False  TYPE: Ground  Attack DMG:20
+Name: Psyduck  Legendary: false  Attack Speed: 50  HP: 50  GEN: False  TYPE: Water  Attack DMG:65
+Name: Bellsprout  Legendary: false  Attack Speed: 30  HP: 50  GEN: False  TYPE: Grass  Attack DMG:70
+Name: Ponyta  Legendary: false  Attack Speed: 65  HP: 50  GEN: False  TYPE: Fire  Attack DMG:65
+Name: Magneton  Legendary: false  Attack Speed: 70  HP: 50  GEN: False  TYPE: Electric  Attack DMG:120
+Name: Cloyster  Legendary: false  Attack Speed: 45  HP: 50  GEN: False  TYPE: Water  Attack DMG:85
+Name: Cubone  Legendary: false  Attack Speed: 50  HP: 50  GEN: False  TYPE: Ground  Attack DMG:40
+Name: Hitmonlee  Legendary: false  Attack Speed: 110  HP: 50  GEN: False  TYPE: Fighting  Attack DMG:35
+Name: Hitmonchan  Legendary: false  Attack Speed: 110  HP: 50  GEN: False  TYPE: Fighting  Attack DMG:35
+Name: Totodile  Legendary: false  Attack Speed: 48  HP: 50  GEN: False  TYPE: Water  Attack DMG:44
+Name: Cleffa  Legendary: false  Attack Speed: 55  HP: 50  GEN: False  TYPE: Fairy  Attack DMG:45
+Name: Pineco  Legendary: false  Attack Speed: 35  HP: 50  GEN: False  TYPE: Bug  Attack DMG:35
+Name: Magcargo  Legendary: false  Attack Speed: 80  HP: 50  GEN: False  TYPE: Fire  Attack DMG:80
+Name: Swinub  Legendary: false  Attack Speed: 30  HP: 50  GEN: False  TYPE: Ice  Attack DMG:30
+Name: Hitmontop  Legendary: false  Attack Speed: 110  HP: 50  GEN: False  TYPE: Fighting  Attack DMG:35
+Name: Larvitar  Legendary: false  Attack Speed: 50  HP: 50  GEN: False  TYPE: Rock  Attack DMG:45
+Name: Grovyle  Legendary: false  Attack Speed: 65  HP: 50  GEN: False  TYPE: Grass  Attack DMG:85
+Name: Mudkip  Legendary: false  Attack Speed: 50  HP: 50  GEN: False  TYPE: Water  Attack DMG:50
+Name: Silcoon  Legendary: false  Attack Speed: 25  HP: 50  GEN: False  TYPE: Bug  Attack DMG:25
+Name: Cascoon  Legendary: false  Attack Speed: 25  HP: 50  GEN: False  TYPE: Bug  Attack DMG:25
+Name: Azurill  Legendary: false  Attack Speed: 40  HP: 50  GEN: False  TYPE: Normal  Attack DMG:20
+Name: Skitty  Legendary: false  Attack Speed: 35  HP: 50  GEN: False  TYPE: Normal  Attack DMG:35
+Name: Sableye  Legendary: false  Attack Speed: 65  HP: 50  GEN: False  TYPE: Dark  Attack DMG:65
+Name: SableyeMega Sableye  Legendary: false  Attack Speed: 115  HP: 50  GEN: False  TYPE: Dark  Attack DMG:85
+Name: Mawile  Legendary: false  Attack Speed: 55  HP: 50  GEN: False  TYPE: Steel  Attack DMG:55
+Name: MawileMega Mawile  Legendary: false  Attack Speed: 95  HP: 50  GEN: False  TYPE: Steel  Attack DMG:55
+Name: Aron  Legendary: false  Attack Speed: 40  HP: 50  GEN: False  TYPE: Steel  Attack DMG:40
+Name: Roselia  Legendary: false  Attack Speed: 80  HP: 50  GEN: False  TYPE: Grass  Attack DMG:100
+Name: Vibrava  Legendary: false  Attack Speed: 50  HP: 50  GEN: False  TYPE: Ground  Attack DMG:50
+Name: Cacnea  Legendary: false  Attack Speed: 40  HP: 50  GEN: False  TYPE: Grass  Attack DMG:85
+Name: Barboach  Legendary: false  Attack Speed: 41  HP: 50  GEN: False  TYPE: Water  Attack DMG:46
+Name: Snorunt  Legendary: false  Attack Speed: 50  HP: 50  GEN: False  TYPE: Ice  Attack DMG:50
+Name: DeoxysNormal Forme  Legendary: true  Attack Speed: 50  HP: 50  GEN: True  TYPE: Psychic  Attack DMG:150
+Name: DeoxysAttack Forme  Legendary: true  Attack Speed: 20  HP: 50  GEN: True  TYPE: Psychic  Attack DMG:180
+Name: DeoxysDefense Forme  Legendary: true  Attack Speed: 160  HP: 50  GEN: True  TYPE: Psychic  Attack DMG:70
+Name: DeoxysSpeed Forme  Legendary: true  Attack Speed: 90  HP: 50  GEN: True  TYPE: Psychic  Attack DMG:95
+Name: Bonsly  Legendary: false  Attack Speed: 45  HP: 50  GEN: False  TYPE: Rock  Attack DMG:10
+Name: Spiritomb  Legendary: false  Attack Speed: 108  HP: 50  GEN: False  TYPE: Ghost  Attack DMG:92
+Name: Rotom  Legendary: false  Attack Speed: 77  HP: 50  GEN: False  TYPE: Electric  Attack DMG:95
+Name: RotomHeat Rotom  Legendary: false  Attack Speed: 107  HP: 50  GEN: False  TYPE: Electric  Attack DMG:105
+Name: RotomWash Rotom  Legendary: false  Attack Speed: 107  HP: 50  GEN: False  TYPE: Electric  Attack DMG:105
+Name: RotomFrost Rotom  Legendary: false  Attack Speed: 107  HP: 50  GEN: False  TYPE: Electric  Attack DMG:105
+Name: RotomFan Rotom  Legendary: false  Attack Speed: 107  HP: 50  GEN: False  TYPE: Electric  Attack DMG:105
+Name: RotomMow Rotom  Legendary: false  Attack Speed: 107  HP: 50  GEN: False  TYPE: Electric  Attack DMG:105
+Name: Pansage  Legendary: false  Attack Speed: 48  HP: 50  GEN: False  TYPE: Grass  Attack DMG:53
+Name: Pansear  Legendary: false  Attack Speed: 48  HP: 50  GEN: False  TYPE: Fire  Attack DMG:53
+Name: Panpour  Legendary: false  Attack Speed: 48  HP: 50  GEN: False  TYPE: Water  Attack DMG:53
+Name: Pidove  Legendary: false  Attack Speed: 30  HP: 50  GEN: False  TYPE: Normal  Attack DMG:36
+Name: Tympole  Legendary: false  Attack Speed: 40  HP: 50  GEN: False  TYPE: Water  Attack DMG:50
+Name: Sandile  Legendary: false  Attack Speed: 35  HP: 50  GEN: False  TYPE: Ground  Attack DMG:35
+Name: Dwebble  Legendary: false  Attack Speed: 35  HP: 50  GEN: False  TYPE: Bug  Attack DMG:35
+Name: Scraggy  Legendary: false  Attack Speed: 70  HP: 50  GEN: False  TYPE: Dark  Attack DMG:35
+Name: Trubbish  Legendary: false  Attack Speed: 62  HP: 50  GEN: False  TYPE: Poison  Attack DMG:40
+Name: Karrablast  Legendary: false  Attack Speed: 45  HP: 50  GEN: False  TYPE: Bug  Attack DMG:40
+Name: Joltik  Legendary: false  Attack Speed: 50  HP: 50  GEN: False  TYPE: Bug  Attack DMG:57
+Name: Litwick  Legendary: false  Attack Speed: 55  HP: 50  GEN: False  TYPE: Ghost  Attack DMG:65
+Name: Shelmet  Legendary: false  Attack Speed: 65  HP: 50  GEN: False  TYPE: Bug  Attack DMG:40
+Name: Skrelp  Legendary: false  Attack Speed: 60  HP: 50  GEN: False  TYPE: Poison  Attack DMG:60
+Name: Clauncher  Legendary: false  Attack Speed: 63  HP: 50  GEN: False  TYPE: Water  Attack DMG:58
+Name: Carbink  Legendary: false  Attack Speed: 150  HP: 50  GEN: False  TYPE: Rock  Attack DMG:50
+Name: Diancie  Legendary: true  Attack Speed: 150  HP: 50  GEN: True  TYPE: Rock  Attack DMG:100
+Name: DiancieMega Diancie  Legendary: true  Attack Speed: 110  HP: 50  GEN: True  TYPE: Rock  Attack DMG:160
+Name: Glameow  Legendary: false  Attack Speed: 37  HP: 49  GEN: False  TYPE: Normal  Attack DMG:42
+Name: Finneon  Legendary: false  Attack Speed: 61  HP: 49  GEN: False  TYPE: Water  Attack DMG:49
+Name: PumpkabooAverage Size  Legendary: false  Attack Speed: 55  HP: 49  GEN: False  TYPE: Ghost  Attack DMG:44
+Name: Ditto  Legendary: false  Attack Speed: 48  HP: 48  GEN: False  TYPE: Normal  Attack DMG:48
+Name: Unown  Legendary: false  Attack Speed: 48  HP: 48  GEN: False  TYPE: Psychic  Attack DMG:72
+Name: Croagunk  Legendary: false  Attack Speed: 40  HP: 48  GEN: False  TYPE: Poison  Attack DMG:61
+Name: Nidoran♂  Legendary: false  Attack Speed: 40  HP: 46  GEN: False  TYPE: Poison  Attack DMG:40
+Name: Axew  Legendary: false  Attack Speed: 40  HP: 46  GEN: False  TYPE: Dragon  Attack DMG:30
+Name: Caterpie  Legendary: false  Attack Speed: 20  HP: 45  GEN: False  TYPE: Bug  Attack DMG:20
+Name: Kakuna  Legendary: false  Attack Speed: 25  HP: 45  GEN: False  TYPE: Bug  Attack DMG:25
+Name: Oddish  Legendary: false  Attack Speed: 65  HP: 45  GEN: False  TYPE: Grass  Attack DMG:75
+Name: Haunter  Legendary: false  Attack Speed: 55  HP: 45  GEN: False  TYPE: Ghost  Attack DMG:115
+Name: Goldeen  Legendary: false  Attack Speed: 50  HP: 45  GEN: False  TYPE: Water  Attack DMG:35
+Name: Chikorita  Legendary: false  Attack Speed: 65  HP: 45  GEN: False  TYPE: Grass  Attack DMG:49
+Name: Delibird  Legendary: false  Attack Speed: 45  HP: 45  GEN: False  TYPE: Ice  Attack DMG:65
+Name: Houndour  Legendary: false  Attack Speed: 50  HP: 45  GEN: False  TYPE: Dark  Attack DMG:80
+Name: Smoochum  Legendary: false  Attack Speed: 65  HP: 45  GEN: False  TYPE: Ice  Attack DMG:85
+Name: Elekid  Legendary: false  Attack Speed: 55  HP: 45  GEN: False  TYPE: Electric  Attack DMG:65
+Name: Magby  Legendary: false  Attack Speed: 55  HP: 45  GEN: False  TYPE: Fire  Attack DMG:70
+Name: Torchic  Legendary: false  Attack Speed: 50  HP: 45  GEN: False  TYPE: Fire  Attack DMG:70
+Name: Wurmple  Legendary: false  Attack Speed: 30  HP: 45  GEN: False  TYPE: Bug  Attack DMG:20
+Name: Carvanha  Legendary: false  Attack Speed: 20  HP: 45  GEN: False  TYPE: Water  Attack DMG:65
+Name: Trapinch  Legendary: false  Attack Speed: 45  HP: 45  GEN: False  TYPE: Ground  Attack DMG:45
+Name: Swablu  Legendary: false  Attack Speed: 75  HP: 45  GEN: False  TYPE: Normal  Attack DMG:40
+Name: Anorith  Legendary: false  Attack Speed: 50  HP: 45  GEN: False  TYPE: Rock  Attack DMG:40
+Name: Bagon  Legendary: false  Attack Speed: 30  HP: 45  GEN: False  TYPE: Dragon  Attack DMG:40
+Name: Shinx  Legendary: false  Attack Speed: 34  HP: 45  GEN: False  TYPE: Electric  Attack DMG:40
+Name: Cherubi  Legendary: false  Attack Speed: 53  HP: 45  GEN: False  TYPE: Grass  Attack DMG:62
+Name: Chingling  Legendary: false  Attack Speed: 50  HP: 45  GEN: False  TYPE: Psychic  Attack DMG:65
+Name: Mantyke  Legendary: false  Attack Speed: 120  HP: 45  GEN: False  TYPE: Water  Attack DMG:60
+Name: Dusknoir  Legendary: false  Attack Speed: 135  HP: 45  GEN: False  TYPE: Ghost  Attack DMG:65
+Name: Snivy  Legendary: false  Attack Speed: 55  HP: 45  GEN: False  TYPE: Grass  Attack DMG:45
+Name: Patrat  Legendary: false  Attack Speed: 39  HP: 45  GEN: False  TYPE: Normal  Attack DMG:35
+Name: Lillipup  Legendary: false  Attack Speed: 45  HP: 45  GEN: False  TYPE: Normal  Attack DMG:25
+Name: Blitzle  Legendary: false  Attack Speed: 32  HP: 45  GEN: False  TYPE: Electric  Attack DMG:50
+Name: Sewaddle  Legendary: false  Attack Speed: 60  HP: 45  GEN: False  TYPE: Bug  Attack DMG:40
+Name: Petilil  Legendary: false  Attack Speed: 50  HP: 45  GEN: False  TYPE: Grass  Attack DMG:70
+Name: Gothita  Legendary: false  Attack Speed: 65  HP: 45  GEN: False  TYPE: Psychic  Attack DMG:55
+Name: Solosis  Legendary: false  Attack Speed: 50  HP: 45  GEN: False  TYPE: Psychic  Attack DMG:105
+Name: Mienfoo  Legendary: false  Attack Speed: 50  HP: 45  GEN: False  TYPE: Fighting  Attack DMG:55
+Name: Pawniard  Legendary: false  Attack Speed: 40  HP: 45  GEN: False  TYPE: Dark  Attack DMG:40
+Name: Fletchling  Legendary: false  Attack Speed: 38  HP: 45  GEN: False  TYPE: Normal  Attack DMG:40
+Name: Spewpa  Legendary: false  Attack Speed: 30  HP: 45  GEN: False  TYPE: Bug  Attack DMG:27
+Name: Honedge  Legendary: false  Attack Speed: 37  HP: 45  GEN: False  TYPE: Steel  Attack DMG:35
+Name: Goomy  Legendary: false  Attack Speed: 75  HP: 45  GEN: False  TYPE: Dragon  Attack DMG:55
+Name: Squirtle  Legendary: false  Attack Speed: 64  HP: 44  GEN: False  TYPE: Water  Attack DMG:50
+Name: Shuppet  Legendary: false  Attack Speed: 33  HP: 44  GEN: False  TYPE: Ghost  Attack DMG:63
+Name: Chimchar  Legendary: false  Attack Speed: 44  HP: 44  GEN: False  TYPE: Fire  Attack DMG:58
+Name: Ferroseed  Legendary: false  Attack Speed: 86  HP: 44  GEN: False  TYPE: Grass  Attack DMG:24
+Name: Flabébé  Legendary: false  Attack Speed: 79  HP: 44  GEN: False  TYPE: Fairy  Attack DMG:61
+Name: Helioptile  Legendary: false  Attack Speed: 43  HP: 44  GEN: False  TYPE: Electric  Attack DMG:61
+Name: PumpkabooSmall Size  Legendary: false  Attack Speed: 55  HP: 44  GEN: False  TYPE: Ghost  Attack DMG:44
+Name: Corphish  Legendary: false  Attack Speed: 35  HP: 43  GEN: False  TYPE: Water  Attack DMG:50
+Name: Luvdisc  Legendary: false  Attack Speed: 65  HP: 43  GEN: False  TYPE: Water  Attack DMG:40
+Name: Phantump  Legendary: false  Attack Speed: 60  HP: 43  GEN: False  TYPE: Ghost  Attack DMG:50
+Name: Binacle  Legendary: false  Attack Speed: 56  HP: 42  GEN: False  TYPE: Rock  Attack DMG:39
+Name: Dratini  Legendary: false  Attack Speed: 50  HP: 41  GEN: False  TYPE: Dragon  Attack DMG:50
+Name: Purrloin  Legendary: false  Attack Speed: 37  HP: 41  GEN: False  TYPE: Dark  Attack DMG:50
+Name: Froakie  Legendary: false  Attack Speed: 44  HP: 41  GEN: False  TYPE: Water  Attack DMG:62
+Name: Weedle  Legendary: false  Attack Speed: 20  HP: 40  GEN: False  TYPE: Bug  Attack DMG:20
+Name: Pidgey  Legendary: false  Attack Speed: 35  HP: 40  GEN: False  TYPE: Normal  Attack DMG:35
+Name: Spearow  Legendary: false  Attack Speed: 31  HP: 40  GEN: False  TYPE: Normal  Attack DMG:31
+Name: Zubat  Legendary: false  Attack Speed: 40  HP: 40  GEN: False  TYPE: Poison  Attack DMG:30
+Name: Meowth  Legendary: false  Attack Speed: 40  HP: 40  GEN: False  TYPE: Normal  Attack DMG:40
+Name: Mankey  Legendary: false  Attack Speed: 45  HP: 40  GEN: False  TYPE: Fighting  Attack DMG:35
+Name: Poliwag  Legendary: false  Attack Speed: 40  HP: 40  GEN: False  TYPE: Water  Attack DMG:40
+Name: Kadabra  Legendary: false  Attack Speed: 70  HP: 40  GEN: False  TYPE: Psychic  Attack DMG:120
+Name: Tentacool  Legendary: false  Attack Speed: 100  HP: 40  GEN: False  TYPE: Water  Attack DMG:50
+Name: Geodude  Legendary: false  Attack Speed: 30  HP: 40  GEN: False  TYPE: Rock  Attack DMG:30
+Name: Voltorb  Legendary: false  Attack Speed: 55  HP: 40  GEN: False  TYPE: Electric  Attack DMG:55
+Name: Koffing  Legendary: false  Attack Speed: 45  HP: 40  GEN: False  TYPE: Poison  Attack DMG:60
+Name: Mr. Mime  Legendary: false  Attack Speed: 120  HP: 40  GEN: False  TYPE: Psychic  Attack DMG:100
+Name: Ledyba  Legendary: false  Attack Speed: 80  HP: 40  GEN: False  TYPE: Bug  Attack DMG:40
+Name: Spinarak  Legendary: false  Attack Speed: 40  HP: 40  GEN: False  TYPE: Bug  Attack DMG:40
+Name: Natu  Legendary: false  Attack Speed: 45  HP: 40  GEN: False  TYPE: Psychic  Attack DMG:70
+Name: Slugma  Legendary: false  Attack Speed: 40  HP: 40  GEN: False  TYPE: Fire  Attack DMG:70
+Name: Treecko  Legendary: false  Attack Speed: 55  HP: 40  GEN: False  TYPE: Grass  Attack DMG:65
+Name: Lotad  Legendary: false  Attack Speed: 50  HP: 40  GEN: False  TYPE: Water  Attack DMG:40
+Name: Seedot  Legendary: false  Attack Speed: 30  HP: 40  GEN: False  TYPE: Grass  Attack DMG:30
+Name: Taillow  Legendary: false  Attack Speed: 30  HP: 40  GEN: False  TYPE: Normal  Attack DMG:30
+Name: Wingull  Legendary: false  Attack Speed: 30  HP: 40  GEN: False  TYPE: Water  Attack DMG:55
+Name: Surskit  Legendary: false  Attack Speed: 52  HP: 40  GEN: False  TYPE: Bug  Attack DMG:50
+Name: Electrike  Legendary: false  Attack Speed: 40  HP: 40  GEN: False  TYPE: Electric  Attack DMG:65
+Name: Baltoy  Legendary: false  Attack Speed: 70  HP: 40  GEN: False  TYPE: Ground  Attack DMG:40
+Name: Dusclops  Legendary: false  Attack Speed: 130  HP: 40  GEN: False  TYPE: Ghost  Attack DMG:60
+Name: Beldum  Legendary: false  Attack Speed: 60  HP: 40  GEN: False  TYPE: Steel  Attack DMG:35
+Name: Starly  Legendary: false  Attack Speed: 30  HP: 40  GEN: False  TYPE: Normal  Attack DMG:30
+Name: Budew  Legendary: false  Attack Speed: 70  HP: 40  GEN: False  TYPE: Grass  Attack DMG:50
+Name: Burmy  Legendary: false  Attack Speed: 45  HP: 40  GEN: False  TYPE: Bug  Attack DMG:29
+Name: Riolu  Legendary: false  Attack Speed: 40  HP: 40  GEN: False  TYPE: Fighting  Attack DMG:35
+Name: Skorupi  Legendary: false  Attack Speed: 55  HP: 40  GEN: False  TYPE: Poison  Attack DMG:30
+Name: Whirlipede  Legendary: false  Attack Speed: 79  HP: 40  GEN: False  TYPE: Bug  Attack DMG:40
+Name: Cottonee  Legendary: false  Attack Speed: 50  HP: 40  GEN: False  TYPE: Grass  Attack DMG:37
+Name: Zorua  Legendary: false  Attack Speed: 40  HP: 40  GEN: False  TYPE: Dark  Attack DMG:80
+Name: Klink  Legendary: false  Attack Speed: 60  HP: 40  GEN: False  TYPE: Steel  Attack DMG:45
+Name: Fennekin  Legendary: false  Attack Speed: 60  HP: 40  GEN: False  TYPE: Fire  Attack DMG:62
+Name: Noibat  Legendary: false  Attack Speed: 40  HP: 40  GEN: False  TYPE: Flying  Attack DMG:45
+Name: Charmander  Legendary: false  Attack Speed: 50  HP: 39  GEN: False  TYPE: Fire  Attack DMG:60
+Name: Cyndaquil  Legendary: false  Attack Speed: 50  HP: 39  GEN: False  TYPE: Fire  Attack DMG:60
+Name: Vulpix  Legendary: false  Attack Speed: 65  HP: 38  GEN: False  TYPE: Fire  Attack DMG:50
+Name: Zigzagoon  Legendary: false  Attack Speed: 41  HP: 38  GEN: False  TYPE: Normal  Attack DMG:30
+Name: Kirlia  Legendary: false  Attack Speed: 55  HP: 38  GEN: False  TYPE: Psychic  Attack DMG:65
+Name: Yamask  Legendary: false  Attack Speed: 65  HP: 38  GEN: False  TYPE: Ghost  Attack DMG:55
+Name: Bunnelby  Legendary: false  Attack Speed: 36  HP: 38  GEN: False  TYPE: Normal  Attack DMG:32
+Name: Scatterbug  Legendary: false  Attack Speed: 25  HP: 38  GEN: False  TYPE: Bug  Attack DMG:27
+Name: Kricketot  Legendary: false  Attack Speed: 41  HP: 37  GEN: False  TYPE: Bug  Attack DMG:25
+Name: Vanillite  Legendary: false  Attack Speed: 60  HP: 36  GEN: False  TYPE: Ice  Attack DMG:65
+Name: Ekans  Legendary: false  Attack Speed: 54  HP: 35  GEN: False  TYPE: Poison  Attack DMG:40
+Name: Pikachu  Legendary: false  Attack Speed: 50  HP: 35  GEN: False  TYPE: Electric  Attack DMG:50
+Name: Paras  Legendary: false  Attack Speed: 55  HP: 35  GEN: False  TYPE: Bug  Attack DMG:45
+Name: Dugtrio  Legendary: false  Attack Speed: 70  HP: 35  GEN: False  TYPE: Ground  Attack DMG:50
+Name: Doduo  Legendary: false  Attack Speed: 35  HP: 35  GEN: False  TYPE: Normal  Attack DMG:35
+Name: Onix  Legendary: false  Attack Speed: 45  HP: 35  GEN: False  TYPE: Rock  Attack DMG:30
+Name: Omanyte  Legendary: false  Attack Speed: 55  HP: 35  GEN: False  TYPE: Rock  Attack DMG:90
+Name: Sentret  Legendary: false  Attack Speed: 45  HP: 35  GEN: False  TYPE: Normal  Attack DMG:35
+Name: Togepi  Legendary: false  Attack Speed: 65  HP: 35  GEN: False  TYPE: Fairy  Attack DMG:40
+Name: Hoppip  Legendary: false  Attack Speed: 55  HP: 35  GEN: False  TYPE: Grass  Attack DMG:35
+Name: Remoraid  Legendary: false  Attack Speed: 35  HP: 35  GEN: False  TYPE: Water  Attack DMG:65
+Name: Tyrogue  Legendary: false  Attack Speed: 35  HP: 35  GEN: False  TYPE: Fighting  Attack DMG:35
+Name: Poochyena  Legendary: false  Attack Speed: 30  HP: 35  GEN: False  TYPE: Dark  Attack DMG:30
+Name: Clamperl  Legendary: false  Attack Speed: 55  HP: 35  GEN: False  TYPE: Water  Attack DMG:74
+Name: Tynamo  Legendary: false  Attack Speed: 40  HP: 35  GEN: False  TYPE: Electric  Attack DMG:45
+Name: Nincada  Legendary: false  Attack Speed: 30  HP: 31  GEN: False  TYPE: Bug  Attack DMG:30
+Name: Rattata  Legendary: false  Attack Speed: 35  HP: 30  GEN: False  TYPE: Normal  Attack DMG:25
+Name: Shellder  Legendary: false  Attack Speed: 25  HP: 30  GEN: False  TYPE: Water  Attack DMG:45
+Name: Gastly  Legendary: false  Attack Speed: 35  HP: 30  GEN: False  TYPE: Ghost  Attack DMG:100
+Name: Krabby  Legendary: false  Attack Speed: 25  HP: 30  GEN: False  TYPE: Water  Attack DMG:25
+Name: Horsea  Legendary: false  Attack Speed: 25  HP: 30  GEN: False  TYPE: Water  Attack DMG:70
+Name: Staryu  Legendary: false  Attack Speed: 55  HP: 30  GEN: False  TYPE: Water  Attack DMG:70
+Name: Kabuto  Legendary: false  Attack Speed: 45  HP: 30  GEN: False  TYPE: Rock  Attack DMG:55
+Name: Sunkern  Legendary: false  Attack Speed: 30  HP: 30  GEN: False  TYPE: Grass  Attack DMG:30
+Name: Nosepass  Legendary: false  Attack Speed: 90  HP: 30  GEN: False  TYPE: Rock  Attack DMG:45
+Name: Meditite  Legendary: false  Attack Speed: 55  HP: 30  GEN: False  TYPE: Fighting  Attack DMG:40
+Name: Shieldon  Legendary: false  Attack Speed: 88  HP: 30  GEN: False  TYPE: Rock  Attack DMG:42
+Name: Combee  Legendary: false  Attack Speed: 42  HP: 30  GEN: False  TYPE: Bug  Attack DMG:30
+Name: Venipede  Legendary: false  Attack Speed: 39  HP: 30  GEN: False  TYPE: Bug  Attack DMG:30
+Name: Ralts  Legendary: false  Attack Speed: 35  HP: 28  GEN: False  TYPE: Psychic  Attack DMG:45
+Name: Abra  Legendary: false  Attack Speed: 55  HP: 25  GEN: False  TYPE: Psychic  Attack DMG:105
+Name: Magnemite  Legendary: false  Attack Speed: 55  HP: 25  GEN: False  TYPE: Electric  Attack DMG:95
+Name: Magikarp  Legendary: false  Attack Speed: 20  HP: 20  GEN: False  TYPE: Water  Attack DMG:15
+Name: Pichu  Legendary: false  Attack Speed: 35  HP: 20  GEN: False  TYPE: Electric  Attack DMG:35
+Name: Shuckle  Legendary: false  Attack Speed: 230  HP: 20  GEN: False  TYPE: Bug  Attack DMG:10
+Name: Feebas  Legendary: false  Attack Speed: 55  HP: 20  GEN: False  TYPE: Water  Attack DMG:10
+Name: Duskull  Legendary: false  Attack Speed: 90  HP: 20  GEN: False  TYPE: Ghost  Attack DMG:30
+Name: Mime Jr.  Legendary: false  Attack Speed: 90  HP: 20  GEN: False  TYPE: Psychic  Attack DMG:70
+Name: Diglett  Legendary: false  Attack Speed: 45  HP: 10  GEN: False  TYPE: Ground  Attack DMG:35
+Name: Shedinja  Legendary: false  Attack Speed: 30  HP: 1  GEN: False  TYPE: Bug  Attack DMG:30

@@ -1,3 +1,4 @@
+import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
@@ -59,5 +60,17 @@ public abstract class Data {
       }
     }
     return null;
+  }
+
+  public static <T> List<T> bubbleSort(List<T> lst, Comparator <T> c) {
+    for (int i = 0; i < lst.size(); i++) {
+      for (int j = 0; j < lst.size() - i - 1; j++) {
+
+        if (c.compare(lst.get(j), lst.get(j + 1)) == 1) {
+          Collections.swap(lst, j, j + 1);
+        }
+      }
+    }
+    return lst;
   }
 }
